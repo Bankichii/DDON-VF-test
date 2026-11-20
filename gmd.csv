@@ -6909,39 +6909,27 @@ Orcs"
 44,FURNITURE_LAYOUT_NAME_49,マンドラゴラ鉢植え③パスポート,Mandragora en pot 3 (Passport),ui\00_message\common\furniture_layout_name.gmd,\MyRoom.arc,MyRoom.arc,44,,,Mandragora en pot 3 (Passport)
 45,FURNITURE_LAYOUT_NAME_61,楽譜,Partition,ui\00_message\common\furniture_layout_name.gmd,\MyRoom.arc,MyRoom.arc,45,,,Partition
 46,FURNITURE_LAYOUT_NAME_63,ホログラムパターン,Motif holographique,ui\00_message\common\furniture_layout_name.gmd,\MyRoom.arc,MyRoom.arc,46,,,Motif holographique
-0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,0,,,"Restaure une partie des points de vie de
-l'utilisateur."
-0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,1,,,"Restaure une partie des points de vie de
-l'utilisateur."
-0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,2,,,"Restaure une partie de l'endurance de
-l'utilisateur."
+0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,0,,,Restaure une partie de vos PV.
+0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,1,,,Restaure une partie de vos PV.
+0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,2,,,Restaure une partie de votre endurance.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,3,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,3,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,4,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,4,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,5,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,5,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,6,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,6,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,7,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,7,,,Soigne les altérations de statut indiquées.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,8,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,8,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,9,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,9,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,10,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,10,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,11,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,11,,,Confère l'effet de statut indiqué.
 0,,"ドリード城離れにある《宝物殿》の鍵
 かつては貴重資料が集められていた","Une clé qui ouvre le trésor du château de Dreed.
 De nombreuses richesses y étaient conservées.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,12,,,"Une clé qui ouvre le trésor du château de Dreed.
@@ -6969,12 +6957,10 @@ Le sort des prisonniers est inconnu."
 状態異常【延焼】を与える","À lancer pour infliger des dégâts à l'impact.
 Provoque l'altération [Brûlure].",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,17,,,"À lancer pour infliger des dégâts à l'impact.
 Provoque l'altération [Brûlure]."
-0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,18,,,"Restaure une partie des points de vie de
-l'utilisateur."
+0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,18,,,Restaure une partie de vos PV.
 0,,装備しているランタンに着火し、一定時間点灯させる,Permet d'allumer votre lanterne pendant un certain temps.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,19,,,"Permet d'allumer votre lanterne pendant un certain
 temps."
-0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,20,,,"Restaure une partie de l'endurance de
-l'utilisateur."
+0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,20,,,Restaure une partie de votre endurance.
 0,,"鉱脈から素材アイテムを採掘するために必要
 一定確率で消耗する","Permet de récolter des minerais dans les filons.
 Peut se briser à l'utilisation.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,21,,,"Permet de récolter des minerais dans les filons.
@@ -6987,19 +6973,14 @@ Peut se briser à l'utilisation."
 一定確率で消耗する","Permet d'ouvrir les coffres au trésor verrouillés.
 Peut se briser à l'utilisation.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,23,,,"Permet d'ouvrir les coffres au trésor verrouillés.
 Peut se briser à l'utilisation."
-0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,24,,,"Restaure une partie de l'endurance de
-l'utilisateur."
+0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,24,,,Restaure une partie de votre endurance.
 0,,"キノコをメインに使った料理
 食べると様々な良い効果がある",Un plat principalement composé de champignons. Sa consommation confère divers bonus.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,25,,,"Un plat principalement composé de champignons. Sa
 consommation confère divers bonus."
-0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,26,,,"Restaure une partie des points de vie de
-l'utilisateur."
-0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,27,,,"Restaure une partie des points de vie de
-l'utilisateur."
-0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,28,,,"Restaure une partie des points de vie de
-l'utilisateur."
-0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,29,,,"Restaure une partie des points de vie de
-l'utilisateur."
+0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,26,,,Restaure une partie de vos PV.
+0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,27,,,Restaure une partie de vos PV.
+0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,28,,,Restaure une partie de vos PV.
+0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,29,,,Restaure une partie de vos PV.
 0,,金貨（G）の入った袋,Une bourse de pièces d'or (G).,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,30,,,Une bourse de pièces d'or (G).
 0,,金貨（G）の入った袋,Une bourse de pièces d'or (G).,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,31,,,Une bourse de pièces d'or (G).
 0,,金貨（G）の入った袋,Une bourse de pièces d'or (G).,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,32,,,Une bourse de pièces d'or (G).
@@ -7023,86 +7004,58 @@ de batailles passées."
 Consommée à l'utilisation.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,39,,,"Clé nécessaire pour ouvrir les anciennes ruines
 elfiques.
 Consommée à l'utilisation."
-0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,40,,,"Restaure une partie de l'endurance de
-l'utilisateur."
-0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,41,,,"Restaure une partie de l'endurance de
-l'utilisateur."
-0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,42,,,"Restaure une partie de l'endurance de
-l'utilisateur."
-0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,43,,,"Restaure une partie de l'endurance de
-l'utilisateur."
+0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,40,,,Restaure une partie de votre endurance.
+0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,41,,,Restaure une partie de votre endurance.
+0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,42,,,Restaure une partie de votre endurance.
+0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,43,,,Restaure une partie de votre endurance.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,44,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,44,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,45,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,45,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,46,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,46,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,47,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,47,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,48,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,48,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,49,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,49,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,50,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,50,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,51,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,51,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,52,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,52,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,53,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,53,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,54,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,54,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,55,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,55,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,56,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,56,,,Soigne les altérations de statut indiquées.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,57,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,57,,,Soigne les altérations de statut indiquées.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,58,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,58,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,59,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,59,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,60,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,60,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,61,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,61,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,62,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,62,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,63,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,63,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,64,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,64,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,65,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,65,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,66,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,66,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,67,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,67,,,Confère l'effet de statut indiqué.
 0,,"投げつけた対象にダメージと
 状態異常【水濡れ】を与える","À lancer pour infliger des dégâts à l'impact.
 Provoque l'altération [Trempé].",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,68,,,"À lancer pour infliger des dégâts à l'impact.
@@ -7255,14 +7208,11 @@ auprès des Rift Crystals.</COL>"
 0,,JPリセット通貨用テストアイテム,Objet de test pour réinitialiser les JP.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,116,,,Objet de test pour réinitialiser les JP.
 0,,CPリセット通貨用テストアイテム,Objet de test pour réinitialiser les CP.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,117,,,Objet de test pour réinitialiser les CP.
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,118,,,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,118,,,Soigne les altérations de statut indiquées.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,119,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,119,,,Confère l'effet de statut indiqué.
 0,,使用者にステータス向上効果を付与する,"Confère à l'utilisateur
-l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,120,,,"Confère à l'utilisateur
-l'effet de statut indiqué."
+l'effet de statut indiqué.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,120,,,Confère l'effet de statut indiqué.
 0,,ハイデル平原のAPを取得できます,Permet d'obtenir des AP à Hidell Plains.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,121,,,Permet d'obtenir des AP à Hidell Plains.
 0,,ブリア海岸のAPを取得できます,Permet d'obtenir des AP à Breya Coast.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,122,,,Permet d'obtenir des AP à Breya Coast.
 0,,ミスリウ森林のAPを取得できます,Permet d'obtenir des AP à Mysree Forest.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,123,,,Permet d'obtenir des AP à Mysree Forest.
@@ -7299,10 +7249,8 @@ l'effet de statut indiqué."
 0,,,,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,154,,,
 0,,,,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,155,,,
 0,,,,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,156,,,
-0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,157,,,"Restaure une partie des points de vie de
-l'utilisateur."
-0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,158,,,"Restaure une partie de l'endurance de
-l'utilisateur."
+0,,使用者の体力を回復する,Restaure une partie des points de vie de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,157,,,Restaure une partie de vos PV.
+0,,使用者のスタミナを回復する,Restaure une partie de l'endurance de l'utilisateur.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,158,,,Restaure une partie de votre endurance.
 0,,"使用者にステータス向上効果を付与する
 （効果持続時間　約30分）","Applique les altérations d'état indiquées.
 (Durée : environ 30 minutes)",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,159,,,"Applique les altérations d'état indiquées.
@@ -8084,8 +8032,7 @@ manger restaure l'endurance."
 la bouche en libérant une douceur rafraîchissante.
 Restaure les points de santé et l'endurance."
 0,,使用者の状態異常を解消する,"Soigne les altérations de statut indiquées
-chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,543,,Item Info,"Soigne les altérations de statut indiquées
-chez l'utilisateur."
+chez l'utilisateur.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,543,,Item Info,Soigne les altérations de statut indiquées.
 0,,使用者に攻撃系のステータス向上効果を付与する,Accorde un bonus aux caractéristiques offensives.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,544,,Item Info,Accorde un bonus aux caractéristiques offensives.
 0,,使用者に防御系のステータス向上効果を付与する,Accorde un bonus aux caractéristiques défensives.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,545,,Item Info,Accorde un bonus aux caractéristiques défensives.
 0,,"ファイターのジョブレベルをLV.100にする
@@ -9978,8 +9925,7 @@ voilés de spores."
 0,,"鉱石系のクラフト用素材
 洞窟内で生成された鍾乳石の先端",Pointe de stalactite.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,1151,,,Pointe de stalactite.
 0,,"鉱石系のクラフト用素材
-発光性微生物を内包しほの青く光る鍾乳石",Stalactite renfermant des micro-organismes luminescents émettant une douce lumière bleue.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,1152,,,"Stalactite renfermant des micro-organismes
-luminescents émettant une douce lumière bleue."
+発光性微生物を内包しほの青く光る鍾乳石",Stalactite renfermant des micro-organismes luminescents émettant une douce lumière bleue.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,1152,,,Stalactite abritant des micro-organismes lumineux. Émet une douce lueur bleue.
 0,,"角系のクラフト用素材
 侵食症状により変色した巨大な角",Énorme corne décolorée par la Corruption.,ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,1153,,,Énorme corne décolorée par la Corruption.
 0,,"金属系のクラフト系素材
@@ -269265,26 +269211,26 @@ Pour tout terminer, il vous faut <COL ffdc78><VAL> Golden Gemstone(s)</COL>.
 91,QUEST_MSG_TIME_LIMIT,配信終了まで,Temps limité ,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,91,,,Temps limité 
 91,QUEST_MSG_TIME_LIMIT,配信終了まで,Temps limité ,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,91,,,Temps limité 
 91,QUEST_MSG_TIME_LIMIT,配信終了まで,Temps limité ,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,91,,,Temps limité 
-11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,11,,,Journal des quêtes
-11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,11,,,Journal des quêtes
-11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,11,,,Journal des quêtes
-11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPackageQuestHistory.arc,uGUIPackageQuestHistory.arc,11,,,Journal des quêtes
-11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPopRmcQuestInfo.arc,uGUIPopRmcQuestInfo.arc,11,,,Journal des quêtes
-11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestBoard.arc,uGUIQuestBoard.arc,11,,,Journal des quêtes
-11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestDelivery.arc,uGUIQuestDelivery.arc,11,,,Journal des quêtes
-11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,11,,,Journal des quêtes
-11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,11,,,Journal des quêtes
-11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,11,,,Journal des quêtes
-12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,12,,,Journal des quêtes
-12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,12,,,Journal des quêtes
-12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,12,,,Journal des quêtes
-12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPackageQuestHistory.arc,uGUIPackageQuestHistory.arc,12,,,Journal des quêtes
-12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPopRmcQuestInfo.arc,uGUIPopRmcQuestInfo.arc,12,,,Journal des quêtes
-12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestBoard.arc,uGUIQuestBoard.arc,12,,,Journal des quêtes
-12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestDelivery.arc,uGUIQuestDelivery.arc,12,,,Journal des quêtes
-12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,12,,,Journal des quêtes
-12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,12,,,Journal des quêtes
-12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,12,,,Journal des quêtes
+11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,11,,,Journal de quetes
+11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,11,,,Journal de quetes
+11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,11,,,Journal de quetes
+11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPackageQuestHistory.arc,uGUIPackageQuestHistory.arc,11,,,Journal de quetes
+11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPopRmcQuestInfo.arc,uGUIPopRmcQuestInfo.arc,11,,,Journal de quetes
+11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestBoard.arc,uGUIQuestBoard.arc,11,,,Journal de quetes
+11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestDelivery.arc,uGUIQuestDelivery.arc,11,,,Journal de quetes
+11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,11,,,Journal de quetes
+11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,11,,,Journal de quetes
+11,QUEST_MSG_TITLE01,Quest Log,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,11,,,Journal de quetes
+12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,12,,,Journal de quetes
+12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,12,,,Journal de quetes
+12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,12,,,Journal de quetes
+12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPackageQuestHistory.arc,uGUIPackageQuestHistory.arc,12,,,Journal de quetes
+12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPopRmcQuestInfo.arc,uGUIPopRmcQuestInfo.arc,12,,,Journal de quetes
+12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestBoard.arc,uGUIQuestBoard.arc,12,,,Journal de quetes
+12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestDelivery.arc,uGUIQuestDelivery.arc,12,,,Journal de quetes
+12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,12,,,Journal de quetes
+12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,12,,,Journal de quetes
+12,QUEST_MSG_TITLE02,クエストログ,Journal des quêtes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,12,,,Journal de quetes
 177,QUEST_MSG_UI_REWARD_TRADE_ITEM,%s×%d（所持数：%d）,%s×%d (Possédés : %d),ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,177,,,%s×%d (Possédés : %d)
 177,QUEST_MSG_UI_REWARD_TRADE_ITEM,%s×%d（所持数：%d）,%s×%d (Possédés : %d),ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,177,,,%s×%d (Possédés : %d)
 177,QUEST_MSG_UI_REWARD_TRADE_ITEM,%s×%d（所持数：%d）,%s×%d (Possédés : %d),ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,177,,,%s×%d (Possédés : %d)
@@ -274929,38 +274875,38 @@ pour recevoir toutes les récompenses."
 140,lde_msg_text_023,時点,À ce jour,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,140,,Gacha System,À ce jour
 104,lde_msg_title_e,Large Delivery Event,Événement de livraison majeure,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,104,,Gacha System,Événement de livraison majeure
 105,lde_msg_title_j,大口納品イベント,Événement de livraison majeure,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,105,,Gacha System,Événement de livraison majeure
-31,menu_achievement,アチーブメント,Succès,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,31,,Game Menu,Succès
+31,menu_achievement,アチーブメント,Succès,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,31,,Game Menu,Succes
 61,menu_adv_guide,冒険ガイド,Guide de l'aventurier,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,61,,Game Menu,Guide de l'aventurier
 35,menu_area_infomation,エリアリスト,Liste des zones,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,35,,Game Menu,Liste des zones
 24,menu_arisen_card,覚者プロフィール,Profil de l'Arisen,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,24,,Game Menu,Profil de l'Arisen
-65,menu_board_select,確認する掲示板を選択してください,Sélectionnez le tableau à consulter.,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,65,,Game Menu,Sélectionnez le tableau à consulter.
-53,menu_boxgacha,ボックストレジャーズロット,Boîte à trésors,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,53,,Game Menu,Boîte à trésors
+65,menu_board_select,確認する掲示板を選択してください,Sélectionnez le tableau à consulter.,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,65,,Game Menu,Selectionnez le tableau a consulter.
+53,menu_boxgacha,ボックストレジャーズロット,Boîte à trésors,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,53,,Game Menu,Boite a tresors
 50,menu_caplink,カプリンク,Caplink,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,50,,Game Menu,Caplink
 11,menu_clan,クランステータス,Statut du clan,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,Game Menu,Statut du clan
 52,menu_clan_management,クラン管理,Gestion du clan,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,52,,Game Menu,Gestion du clan
-38,menu_code,イベントコード入力,Saisir un code d'événement,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,38,,Game Menu,Saisir un code d'événement
-12,menu_community,コミュニティリスト,Liste de la communauté,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,Game Menu,Liste de la communauté
+38,menu_code,イベントコード入力,Saisir un code d'événement,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,38,,Game Menu,Saisir un code d'evenement
+12,menu_community,コミュニティリスト,Liste de la communauté,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,Game Menu,Liste de la communaute
 41,menu_confirm_go_launcher,"ログアウトしてランチャー画面に戻ります
 よろしいですか？",Quitter et retourner au launcher ?,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,41,,Game Menu,Quitter et retourner au launcher ?
 40,menu_confirm_go_title,"ゲームを中断してタイトル画面に戻ります
-よろしいですか？",Quitter et retourner à l'écran titre ?,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,40,,Game Menu,Quitter et retourner à l'écran titre ?
+よろしいですか？",Quitter et retourner à l'écran titre ?,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,40,,Game Menu,Quitter et retourner a l'ecran titre ?
 42,menu_confirm_shutdown,"ログアウトしてゲームを終了します
 よろしいですか？",Quitter le jeu ?,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,42,,Game Menu,Quitter le jeu ?
 36,menu_deli_box,アイテムポスト,Item Post,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,36,,Game Menu,Item Post
 27,menu_emote,エモート,Emotes,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,27,,Game Menu,Emotes
 48,menu_entryboard,エントリーボード,Tableau d'inscription,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,48,,Game Menu,Tableau d'inscription
-2,menu_equip_status,ステータス・装備,Statut / Équipement,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Game Menu,Statut / Équipement
+2,menu_equip_status,ステータス・装備,Statut / Équipement,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Game Menu,Statut / Equipement
 33,menu_exit_contents,コンテンツ中断,Quitter le contenu,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,33,,Game Menu,Quitter le contenu
-64,menu_exmboard_dialog,エントリーするEXMを選択してください,Sélectionnez l'EM auquel participer.,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,64,,Game Menu,Sélectionnez l'EM auquel participer.
+64,menu_exmboard_dialog,エントリーするEXMを選択してください,Sélectionnez l'EM auquel participer.,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,64,,Game Menu,Selectionnez l'EM auquel participer.
 63,menu_exmboard_select,EXM募集掲示板,Tableau de recrutement EXM,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,63,,Game Menu,Tableau de recrutement EXM
 26,menu_fixed_pattern,定型文,Expressions,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,26,,Game Menu,Expressions
 46,menu_gacha,トレジャーズロット,Treasure Lot,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,46,,Game Menu,Treasure Lot
-14,menu_gp_charge,黄金石の確認,Consulter les gemmes dorées,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,14,,Game Menu,Consulter les gemmes dorées
+14,menu_gp_charge,黄金石の確認,Consulter les gemmes dorées,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,14,,Game Menu,Consulter les gemmes dorees
 21,menu_gp_shop,オンラインショップ,Boutique en ligne,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21,,Game Menu,Boutique en ligne
 20,menu_gp_status,オンラインステーション,Station en ligne,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,20,,Game Menu,Station en ligne
-62,menu_infdelivery_event,大口納品イベント,Événement de livraison majeure,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,62,,Game Menu,Événement de livraison majeure
+62,menu_infdelivery_event,大口納品イベント,Événement de livraison majeure,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,62,,Game Menu,Evenement de livraison majeure
 0,menu_item,アイテムバッグ,Sac d'objets,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Game Menu,Sac d'objets
-1,menu_key_item,キーアイテム,Objets clés,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Game Menu,Objets clés
+1,menu_key_item,キーアイテム,Objets clés,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Game Menu,Objets cles
 18,menu_license,ライセンス,Licence,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,18,,Game Menu,Licence
 8,menu_lobby,ロビー情報,Informations sur le salon,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Game Menu,Informations sur le salon
 39,menu_login_bonus,スタンプボーナス確認,Consulter le bonus de connexion,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,39,,Game Menu,Consulter le bonus de connexion
@@ -274968,16 +274914,16 @@ pour recevoir toutes les récompenses."
 28,menu_mail,メール,Courrier,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,28,,Game Menu,Courrier
 16,menu_manual,プレイマニュアル,Manuel de jeu,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,16,,Game Menu,Manuel de jeu
 7,menu_map,マップ,Carte,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Game Menu,Carte
-5,menu_master,ジョブ修練ログ,Journal d'entraînement de classe,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Game Menu,Journal d'entraînement de classe
+5,menu_master,ジョブ修練ログ,Journal d'entraînement de classe,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Game Menu,Journal d'entrainement de classe
 22,menu_matching_profile,プロフィール編集,Modifier le profil,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,22,,Game Menu,Modifier le profil
 25,menu_my_fixed_pattern,マイ定型文,Mes expressions,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,25,,Game Menu,Mes expressions
-3,menu_newspaper,レスタニアニュース,Actualités de Lestania,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Game Menu,Actualités de Lestania
+3,menu_newspaper,レスタニアニュース,Actualités de Lestania,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Game Menu,Actualites de Lestania
 34,menu_option_chr,ゲーム設定,Configuration du jeu,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,34,,Game Menu,Configuration du jeu
-15,menu_option_sys,デバイス設定,Configuration système,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,Game Menu,Configuration système
+15,menu_option_sys,デバイス設定,Configuration système,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,Game Menu,Configuration systeme
 10,menu_party,パーティー管理,Gestion du groupe,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Game Menu,Gestion du groupe
 57,menu_partyboard,募集掲示板,Tableau de recrutement,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,57,,Game Menu,Tableau de recrutement
 58,menu_partyboard_dialog,パーティー募集掲示板のカテゴリを選択してください,"Choisissez une catégorie
-du tableau de recrutement de groupe.",ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,58,,Game Menu,"Choisissez une catégorie
+du tableau de recrutement de groupe.",ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,58,,Game Menu,"Choisissez une categorie
 du tableau de recrutement de groupe."
 66,menu_partyboard_select,パーティー募集掲示板,Tableau de recrutement de groupe,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,66,,Game Menu,Tableau de recrutement de groupe
 59,menu_partyboard_type01,パーティー募集掲示板を開く,Ouvrir le tableau de recrutement,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,59,,Game Menu,Ouvrir le tableau de recrutement
@@ -274989,17 +274935,17 @@ du tableau de recrutement de groupe."
 51,menu_ps_items,,,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,51,,Game Menu,
 55,menu_ps_store,,,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,55,,Game Menu,
 56,menu_ps_store_buy,,,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,56,,Game Menu,
-4,menu_quest,クエストログ,Journal des quêtes,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Game Menu,Journal des quêtes
+4,menu_quest,クエストログ,Journal des quêtes,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Game Menu,Journal des quetes
 49,menu_quick_party,クイックパーティー,Groupe rapide,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,49,,Game Menu,Groupe rapide
-45,menu_quit_select_go_launcher,ログアウトしてランチャーに戻る,Se déconnecter et revenir au launcher,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,45,,Game Menu,Se déconnecter et revenir au launcher
+45,menu_quit_select_go_launcher,ログアウトしてランチャーに戻る,Se déconnecter et revenir au launcher,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,45,,Game Menu,Se deconnecter et revenir au launcher
 44,menu_quit_select_go_title,タイトルに戻る,Retour au titre,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,44,,Game Menu,Retour au titre
-43,menu_quit_select_shutdown,ログアウトしてゲームを終了する,Se déconnecter et quitter le jeu,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,43,,Game Menu,Se déconnecter et quitter le jeu
-9,menu_rim_transport,リム転移,Téléportation de faille,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,Game Menu,Téléportation de faille
+43,menu_quit_select_shutdown,ログアウトしてゲームを終了する,Se déconnecter et quitter le jeu,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,43,,Game Menu,Se deconnecter et quitter le jeu
+9,menu_rim_transport,リム転移,Téléportation de faille,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,Game Menu,Teleportation de faille
 47,menu_serch_player,プレイヤー検索,Rechercher un joueur,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,47,,Game Menu,Rechercher un joueur
 32,menu_server_change,ワールド変更,Choisir un canal,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,32,,Game Menu,Choisir un canal
 19,menu_shut_down,ゲーム中断,Quitter le jeu,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,19,,Game Menu,Quitter le jeu
 17,menu_support,サポート・報告,Assistance / Signalement,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,17,,Game Menu,Assistance / Signalement
-54,menu_time_event,リワードミッション,Mission de récompense,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,54,,Game Menu,Mission de récompense
+54,menu_time_event,リワードミッション,Mission de récompense,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,54,,Game Menu,Mission de recompense
 6,menu_tutorial,チュートリアルガイド,Tutoriel,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,6,,Game Menu,Tutoriel
 17,HANDOVER_MSG_ANNOUCE_00,送り先がいっぱいのため、受け取ることができません,"Impossible de récupérer l'objet : l'espace de
 destination est plein.",ui\00_message\ui\general_handover.gmd,\ui\uGUIGiveAndTake.arc,uGUIGiveAndTake.arc,17,,,"Impossible de récupérer l'objet : l'espace de
