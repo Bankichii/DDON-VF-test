@@ -104430,26 +104430,18 @@ dans la région ? J'espère qu'elle aimera le
 jaune."
 0,,"――それにしても
 少し前から《古の祭祀場》での魔物報告が
-相次いでいる","La mek ! Je suis arrivé hier ! Le commandant
-Heinz m'a demandé si j'étais prêt à servir le
-royaume, alors j'lui ai demandé ce qu'il voulait
-manger… Il m'a crié dessus ! J'comprends rien à
-ce monsieur. Franchement, elle est nulle cette
-armure ! Pourquoi elle est pas jaune ?!",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,4,Logan,Incidental Dialogue,"La mek ! Je suis arrivé hier ! Le commandant
-Heinz m'a demandé si j'étais prêt à servir le
-royaume, alors j'lui ai demandé ce qu'il voulait
-manger… Il m'a crié dessus ! J'comprends rien à
-ce monsieur. Franchement, elle est nulle cette
-armure ! Pourquoi elle est pas jaune ?!"
+相次いでいる","La mek ! Je suis arrivé hier ! Le commandant Heinz
+m'a demandé si j'étais prêt à servir le royaume,
+alors j'lui ai demandé ce qu'il voulait manger… Il
+m'a crié dessus ! J'comprends rien à ce monsieur.",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,4,Logan,Incidental Dialogue,"La mek ! Je suis arrivé hier ! Le commandant Heinz
+m'a demandé si j'étais prêt à servir le royaume,
+alors j'lui ai demandé ce qu'il voulait manger… Il
+m'a crié dessus ! J'comprends rien à ce monsieur."
 0,,"竜力が淀みやすい場所だとは聞いていたが
 こうも続くとは――
-お互い気が抜けんな","Il paraît que la puissance draconique
-stagne souvent en ce lieu, mais je ne
-pensais pas que cela durerait autant.
-Restons vigilants.",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,5,Logan,Incidental Dialogue,"Il paraît que la puissance draconique
-stagne souvent en ce lieu, mais je ne
-pensais pas que cela durerait autant.
-Restons vigilants."
+お互い気が抜けんな","Franchement, elle est nulle cette armure !
+Pourquoi elle est pas jaune ?!",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,5,Logan,Incidental Dialogue,"Franchement, elle est nulle cette armure !
+Pourquoi elle est pas jaune ?!"
 0,,"あまり話しかけてくれるなよ？
 団には覚者を良く思わない者が多いからな","Ah, et vous savez j'ai réussi à enlever mon
 casque ? Ça faisait trois jours que je mangeais
@@ -104457,11 +104449,11 @@ ma Marmite par les trous des yeux…",ui\00_message\npc\base\n1017.gmd,\npc\n101
 casque ? Ça faisait trois jours que je mangeais
 ma Marmite par les trous des yeux…"
 0,,"夜や雨天は、普段とは違う魔物が現れる
-ま、外に出る時は天候も気をつけることだ","La nuit et la pluie attirent des créatures
-inhabituelles. Regarde le ciel
-avant de voyager.",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,7,Logan,Incidental Dialogue,"La nuit et la pluie attirent des créatures
-inhabituelles. Regarde le ciel
-avant de voyager."
+ま、外に出る時は天候も気をつけることだ","Appelle moi Sydney. Tu sais apparemment il existe
+une arme légendaire appelée « La louche »
+j'aimerais bien pouvoir la manier.",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,7,Logan,Incidental Dialogue,"Appelle moi Sydney. Tu sais apparemment il existe
+une arme légendaire appelée « La louche »
+j'aimerais bien pouvoir la manier."
 0,,"エントリーは歓迎するが、お前は先になすべき
 ミッションがあるみたいだな
 そちらを終わらせるか、取り消してから
