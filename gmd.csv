@@ -63730,7 +63730,7 @@ zone extrême, 8 joueurs"
 わたしを神殿まで連れて帰ってくれ","Ah, Heinz, vous tombez à pic. Ramenez-moi au Temple, je vous prie.",ui\00_message\event\st0100\ev060.gmd,\event\st0100\st0100ev060.arc,st0100ev060.arc,0,Joseph,Lestania Cutscene,"Ah, Heinz, vous tombez à pic. Ramenez-moi au Temple, je vous prie."
 0,,"それはもちろん！
 このわたしと――",Bien sûr ! Comptez sur moi.,ui\00_message\event\st0100\ev060.gmd,\event\st0100\st0100ev060.arc,st0100ev060.arc,1,Heinz,Lestania Cutscene,Bien sûr ! Comptez sur moi.
-0,,ローガンとデュークにお任せください,"Logan, Duke, vous venez avec moi.",ui\00_message\event\st0100\ev060.gmd,\event\st0100\st0100ev060.arc,st0100ev060.arc,2,Heinz,Lestania Cutscene,"Logan, Duke, vous venez avec moi."
+0,,ローガンとデュークにお任せください,"Emmanuel, Antoine, vous venez avec moi.",ui\00_message\event\st0100\ev060.gmd,\event\st0100\st0100ev060.arc,st0100ev060.arc,2,Heinz,Lestania Cutscene,"Emmanuel, Antoine, vous venez avec moi."
 0,,"世話になったな
 年寄りの世話は終わりだ","Je vous suis redevable. Mais ne vous inquiétez pas, inutile de perdre davantage de temps à vous occuper d'un vieillard.",ui\00_message\event\st0100\ev060.gmd,\event\st0100\st0100ev060.arc,st0100ev060.arc,3,Joseph,Lestania Cutscene,"Je vous suis redevable. Mais ne vous inquiétez pas, inutile de perdre davantage de temps à vous occuper d'un vieillard."
 0,,では、神殿で会おう,"Alors, retrouvons-nous au Temple.",ui\00_message\event\st0100\ev060.gmd,\event\st0100\st0100ev060.arc,st0100ev060.arc,4,Joseph,Lestania Cutscene,"Alors, retrouvons-nous au Temple."
@@ -104337,21 +104337,41 @@ Je n'ose imaginer ce qui se passe
 dans les petits villages !"
 0,,"なんだ？
 神殿からの任務なら表の《クエストボード》
-で発布されているだろう","Que veux-tu ? S'il s'agit d'une mission
-du Temple, elle doit être affichée sur
-le [Quest Board], dehors.",ui\00_message\npc\base\n1016.gmd,\npc\n1016.arc,n1016.arc,0,Duke,Incidental Dialogue,"Que veux-tu ? S'il s'agit d'une mission
-du Temple, elle doit être affichée sur
-le [Quest Board], dehors."
+で発布されているだろう","Vous savez, j'ai déjà rencontré un dieu !
+L'Hermite des Buissons ! Il m'a parlé depuis un
+arbuste ! Il m'a confié une quête sacrée :
+surveiller un caillou pour vérifier qu'il reste
+bien un caillou ! Ça fait huit mois que j'le
+surveille… Pour l'instant, aucun comportement
+suspect !",ui\00_message\npc\base\n1016.gmd,\npc\n1016.arc,n1016.arc,0,Duke,Incidental Dialogue,"Vous savez, j'ai déjà rencontré un dieu !
+L'Hermite des Buissons ! Il m'a parlé depuis un
+arbuste ! Il m'a confié une quête sacrée :
+surveiller un caillou pour vérifier qu'il reste
+bien un caillou ! Ça fait huit mois que j'le
+surveille… Pour l'instant, aucun comportement
+suspect !"
 0,,"手助けはできないな
-ハインツ副団長の許可がないからな","Je ne peux pas t'aider sans l'autorisation
-du vice-capitaine Heinz.",ui\00_message\npc\base\n1016.gmd,\npc\n1016.arc,n1016.arc,1,Duke,Incidental Dialogue,"Je ne peux pas t'aider sans l'autorisation
-du vice-capitaine Heinz."
+ハインツ副団長の許可がないからな","Psst ! Hé, vous ! Parlez moins fort ! Il paraît
+qu'Oumar, la créature mystique qui vole les 4
+couleurs est  dans le coin. J'ai caché les miens
+dans chaque narine pour pas qu'il les trouve !
+Mais j'ai éternué hier et j'en ai planté un dans
+le front de Heinz",ui\00_message\npc\base\n1016.gmd,\npc\n1016.arc,n1016.arc,1,Duke,Incidental Dialogue,"Psst ! Hé, vous ! Parlez moins fort ! Il paraît
+qu'Oumar, la créature mystique qui vole les 4
+couleurs est  dans le coin. J'ai caché les miens
+dans chaque narine pour pas qu'il les trouve !
+Mais j'ai éternué hier et j'en ai planté un dans
+le front de Heinz"
 0,,"ここは白衛騎士団司令部だ
-覚者が何か用か？","Ici se trouve le quartier général
-des Knights of the White Guard.
-Que vient faire un Arisen ici ?",ui\00_message\npc\base\n1016.gmd,\npc\n1016.arc,n1016.arc,2,Duke,Incidental Dialogue,"Ici se trouve le quartier général
-des Knights of the White Guard.
-Que vient faire un Arisen ici ?"
+覚者が何か用か？","« Avec Emmanuel, on a trouvé une stratégie de
+génie ! On a découpé tous les ennemis sur la
+carte du commandant et on les a foutus à la
+poubelle ! Bah voilà, guerre gagnée ! Mais ce con
+veut quand même envoyer des soldats ! »",ui\00_message\npc\base\n1016.gmd,\npc\n1016.arc,n1016.arc,2,Duke,Incidental Dialogue,"« Avec Emmanuel, on a trouvé une stratégie de
+génie ! On a découpé tous les ennemis sur la
+carte du commandant et on les a foutus à la
+poubelle ! Bah voilà, guerre gagnée ! Mais ce con
+veut quand même envoyer des soldats ! »"
 0,,"２つ以上のミッションには
 エントリーできないぞ","Tu ne peux pas t'inscrire à plusieurs
 missions en même temps !",ui\00_message\npc\base\n1016.gmd,\npc\n1016.arc,n1016.arc,3,Duke,Incidental Dialogue,"Tu ne peux pas t'inscrire à plusieurs
@@ -104403,18 +104423,24 @@ lors du dernier combat.
 Tu recevras donc un Secret Augment
 en récompense supplémentaire. Le voici."
 0,,"解決してもすぐまた次の問題が湧いて出る
-困ったものだ","À peine un problème résolu,
-en voilà un autre qui surgit.
-C'est vraiment pénible.",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,3,Logan,Incidental Dialogue,"À peine un problème résolu,
-en voilà un autre qui surgit.
-C'est vraiment pénible."
+困ったものだ","Vous savez si je peux trouver une petite archère
+dans la région ? J'espère qu'elle aimera le
+jaune.",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,3,Logan,Incidental Dialogue,"Vous savez si je peux trouver une petite archère
+dans la région ? J'espère qu'elle aimera le
+jaune."
 0,,"――それにしても
 少し前から《古の祭祀場》での魔物報告が
-相次いでいる","Cependant, depuis quelque temps,
-des ennemis sont régulièrement signalés
-à Ancient Ritual Ground.",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,4,Logan,Incidental Dialogue,"Cependant, depuis quelque temps,
-des ennemis sont régulièrement signalés
-à Ancient Ritual Ground."
+相次いでいる","La mek ! Je suis arrivé hier ! Le commandant
+Heinz m'a demandé si j'étais prêt à servir le
+royaume, alors j'lui ai demandé ce qu'il voulait
+manger… Il m'a crié dessus ! J'comprends rien à
+ce monsieur. Franchement, elle est nulle cette
+armure ! Pourquoi elle est pas jaune ?!",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,4,Logan,Incidental Dialogue,"La mek ! Je suis arrivé hier ! Le commandant
+Heinz m'a demandé si j'étais prêt à servir le
+royaume, alors j'lui ai demandé ce qu'il voulait
+manger… Il m'a crié dessus ! J'comprends rien à
+ce monsieur. Franchement, elle est nulle cette
+armure ! Pourquoi elle est pas jaune ?!"
 0,,"竜力が淀みやすい場所だとは聞いていたが
 こうも続くとは――
 お互い気が抜けんな","Il paraît que la puissance draconique
@@ -104425,11 +104451,11 @@ stagne souvent en ce lieu, mais je ne
 pensais pas que cela durerait autant.
 Restons vigilants."
 0,,"あまり話しかけてくれるなよ？
-団には覚者を良く思わない者が多いからな","Évitons les longues conversations.
-Plusieurs d'entre nous n'aiment pas
-les Arisen.",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,6,Logan,Incidental Dialogue,"Évitons les longues conversations.
-Plusieurs d'entre nous n'aiment pas
-les Arisen."
+団には覚者を良く思わない者が多いからな","Ah, et vous savez j'ai réussi à enlever mon
+casque ? Ça faisait trois jours que je mangeais
+ma Marmite par les trous des yeux…",ui\00_message\npc\base\n1017.gmd,\npc\n1017.arc,n1017.arc,6,Logan,Incidental Dialogue,"Ah, et vous savez j'ai réussi à enlever mon
+casque ? Ça faisait trois jours que je mangeais
+ma Marmite par les trous des yeux…"
 0,,"夜や雨天は、普段とは違う魔物が現れる
 ま、外に出る時は天候も気をつけることだ","La nuit et la pluie attirent des créatures
 inhabituelles. Regarde le ciel
@@ -127026,8 +127052,8 @@ c'est vraiment ingérable."
 0,,セネカ,Seneka,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,90,,NPC Name,Seneka
 0,,ネストーレ,Nestor,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,91,,NPC Name,Nestor
 0,,ヒルデ,Hilde,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,92,,NPC Name,Hilde
-0,,デューク,Duke,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,93,,NPC Name,Duke
-0,,ローガン,Logan,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,94,,NPC Name,Logan
+0,,デューク,Antoine,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,93,,NPC Name,Antoine
+0,,ローガン,Emmanuel,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,94,,NPC Name,Emmanuel
 0,,ミルバーン,Milburn,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,95,,NPC Name,Milburn
 0,,カルノ,Karno,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,96,,NPC Name,Karno
 0,,ハンコック,Hancock,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,97,,NPC Name,Hancock
@@ -221522,7 +221548,7 @@ If you're joining in too, be prepared...",ui\00_message\quest\q90000401.gmd,\que
 visit me once again and come to enlist.
 I await your arrival.",ui\00_message\quest\q90000401.gmd,\quest\q90000401.arc,q90000401.arc,2,Logan,Quest Dialogue,
 0,,"ローガンさんが討伐準備をしている魔物は
-異界を渡る力を持つそうです","The monster that Ser Logan is preparing
+異界を渡る力を持つそうです","The monster that Ser Emmanuel is preparing
 to subdue seems to have the power
 to travel through different realms.",ui\00_message\quest\q90000401.gmd,\quest\q90000401.arc,q90000401.arc,3,Seneka,Quest Dialogue,
 0,,"多くの覚者さまの力が必要になるため
@@ -221530,7 +221556,7 @@ to travel through different realms.",ui\00_message\quest\q90000401.gmd,\quest\q9
 so please lend us your assistance.",ui\00_message\quest\q90000401.gmd,\quest\q90000401.arc,q90000401.arc,4,Seneka,Quest Dialogue,
 0,,"詳しい情報は
 《商店区》にある白衛騎士団の詰所にいる
-ローガンさんをお訪ねください","For more information, please visit Ser Logan
+ローガンさんをお訪ねください","For more information, please visit Ser Emmanuel
 at the White Knights' Headquarters
 in the Shopping District.",ui\00_message\quest\q90000401.gmd,\quest\q90000401.arc,q90000401.arc,5,Seneka,Quest Dialogue,
 0,,"そういえば、《古の祭祀場》に
@@ -221564,11 +221590,11 @@ vos résultats.",ui\00_message\quest\q90000402.gmd,\quest\q90000402.arc,q9000040
 classement répartis dans le temple pour connaître
 vos résultats."
 0,,"ローガンさんが討伐隊を
-動かし始めたみたいです",Ser Logan looks to be preparing for a hunt.,ui\00_message\quest\q90000402.gmd,\quest\q90000402.arc,q90000402.arc,4,Seneka,Quest Dialogue,
+動かし始めたみたいです",Ser Emmanuel looks to be preparing for a hunt.,ui\00_message\quest\q90000402.gmd,\quest\q90000402.arc,q90000402.arc,4,Seneka,Quest Dialogue,
 0,,"詳しい情報はレスタニアニュースを確認の上
 《商店区》にある白衛騎士団の詰所にいる
 ローガンさんをお訪ねください","For more information, please check the Lestania
-News and visit Ser Logan at the White Knights'
+News and visit Ser Emmanuel at the White Knights'
 Headquarters in the ""Shopping District"".",ui\00_message\quest\q90000402.gmd,\quest\q90000402.arc,q90000402.arc,5,Seneka,Quest Dialogue,
 0,,"《古の祭祀場》に、恐ろしい魔物が
 姿を現したの！
@@ -275814,7 +275840,7 @@ lieux."
 64,ARISEN_CARD_TEXT_CRAFTNUM,クラフト回数,Total de fabrication,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,64,,Arisen Profile,Total de fabrication
 83,ARISEN_CARD_TEXT_CRAFTUSENUM,クラフト使用数,Nb d'utilisations de l'artisanat,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,83,,Arisen Profile,Nb d'utilisations de l'artisanat
 67,ARISEN_CARD_TEXT_CRAFTVALUE,クラフト評価,Niveau de fabrication,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,67,,Arisen Profile,Niveau de fabrication
-32,ARISEN_CARD_TEXT_CUREPWR,生命治癒力,Limite de recuperation,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,32,,Arisen Profile,Limite de recuperation
+32,ARISEN_CARD_TEXT_CUREPWR,生命治癒力,Limite de récup.,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,32,,Arisen Profile,Limite de récup.
 40,ARISEN_CARD_TEXT_CUSTOMSKILL,カスタムスキル,Compétence active,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,40,,Arisen Profile,Compétence active
 30,ARISEN_CARD_TEXT_DEFENCE,Defence,Def.,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,30,,Arisen Profile,Def.
 31,ARISEN_CARD_TEXT_DEFPWR,耐久力,Endurance,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,31,,Arisen Profile,Endurance
@@ -275937,8 +275963,8 @@ lieux."
 83,ARISEN_CARD_TEXT_CRAFTUSENUM,残りクラフト回数,Fabrications restantes,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIPawnThinkList.arc,uGUIPawnThinkList.arc,83,,Arisen Profile,Fabrications restantes
 67,ARISEN_CARD_TEXT_CRAFTVALUE,クラフト平均評価,Moyenne de fabrication,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,67,,Arisen Profile,Moyenne de fabrication
 67,ARISEN_CARD_TEXT_CRAFTVALUE,クラフト平均評価,Moyenne de fabrication,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIPawnThinkList.arc,uGUIPawnThinkList.arc,67,,Arisen Profile,Moyenne de fabrication
-32,ARISEN_CARD_TEXT_CUREPWR,生命治癒力,Limite de recuperation,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,32,,Arisen Profile,Limite de recuperation
-32,ARISEN_CARD_TEXT_CUREPWR,生命治癒力,Limite de recuperation,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIPawnThinkList.arc,uGUIPawnThinkList.arc,32,,Arisen Profile,Limite de recuperation
+32,ARISEN_CARD_TEXT_CUREPWR,生命治癒力,Limite de récup.,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,32,,Arisen Profile,Limite de récup.
+32,ARISEN_CARD_TEXT_CUREPWR,生命治癒力,Limite de récup.,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIPawnThinkList.arc,uGUIPawnThinkList.arc,32,,Arisen Profile,Limite de récup.
 40,ARISEN_CARD_TEXT_CUSTOMSKILL,カスタムスキル,Compétence active,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,40,,Arisen Profile,Compétence active
 40,ARISEN_CARD_TEXT_CUSTOMSKILL,カスタムスキル,Compétence active,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIPawnThinkList.arc,uGUIPawnThinkList.arc,40,,Arisen Profile,Compétence active
 94,ARISEN_CARD_TEXT_DATING,日付,Date,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,94,,Arisen Profile,Date
@@ -277707,11 +277733,11 @@ Vous pouvez maintenant changer la couleur."
 166,RECIPE_CATE_USE_ITEM_REPAIR,状態異常解消,Soigner les alterations d'etat,ui\00_message\ui\Craft_res.gmd,\ui\uGUIPopCraftDetail.arc,uGUIPopCraftDetail.arc,166,,Crafting Related,Soigner les alterations d'etat
 166,RECIPE_CATE_USE_ITEM_REPAIR,状態異常解消,Soigner les alterations d'etat,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubList.arc,uGUISubList.arc,166,,Crafting Related,Soigner les alterations d'etat
 166,RECIPE_CATE_USE_ITEM_REPAIR,状態異常解消,Soigner les alterations d'etat,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubRecipe.arc,uGUISubRecipe.arc,166,,Crafting Related,Soigner les alterations d'etat
-165,RECIPE_CATE_USE_ITEM_ST,スタミナ回復,Recuperation d'endurance,ui\00_message\ui\Craft_res.gmd,\ui\uGUICharacter.arc,uGUICharacter.arc,165,,Crafting Related,Recuperation d'endurance
-165,RECIPE_CATE_USE_ITEM_ST,スタミナ回復,Recuperation d'endurance,ui\00_message\ui\Craft_res.gmd,\ui\uGUICraft.arc,uGUICraft.arc,165,,Crafting Related,Recuperation d'endurance
-165,RECIPE_CATE_USE_ITEM_ST,スタミナ回復,Recuperation d'endurance,ui\00_message\ui\Craft_res.gmd,\ui\uGUIPopCraftDetail.arc,uGUIPopCraftDetail.arc,165,,Crafting Related,Recuperation d'endurance
-165,RECIPE_CATE_USE_ITEM_ST,スタミナ回復,Recuperation d'endurance,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubList.arc,uGUISubList.arc,165,,Crafting Related,Recuperation d'endurance
-165,RECIPE_CATE_USE_ITEM_ST,スタミナ回復,Recuperation d'endurance,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubRecipe.arc,uGUISubRecipe.arc,165,,Crafting Related,Recuperation d'endurance
+165,RECIPE_CATE_USE_ITEM_ST,スタミナ回復,Récup. endu.,ui\00_message\ui\Craft_res.gmd,\ui\uGUICharacter.arc,uGUICharacter.arc,165,,Crafting Related,Récup. endu.
+165,RECIPE_CATE_USE_ITEM_ST,スタミナ回復,Récup. endu.,ui\00_message\ui\Craft_res.gmd,\ui\uGUICraft.arc,uGUICraft.arc,165,,Crafting Related,Récup. endu.
+165,RECIPE_CATE_USE_ITEM_ST,スタミナ回復,Récup. endu.,ui\00_message\ui\Craft_res.gmd,\ui\uGUIPopCraftDetail.arc,uGUIPopCraftDetail.arc,165,,Crafting Related,Récup. endu.
+165,RECIPE_CATE_USE_ITEM_ST,スタミナ回復,Récup. endu.,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubList.arc,uGUISubList.arc,165,,Crafting Related,Récup. endu.
+165,RECIPE_CATE_USE_ITEM_ST,スタミナ回復,Récup. endu.,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubRecipe.arc,uGUISubRecipe.arc,165,,Crafting Related,Récup. endu.
 168,RECIPE_CATE_USE_ITEM_THROW,投擲道具,Objet à lancer,ui\00_message\ui\Craft_res.gmd,\ui\uGUICharacter.arc,uGUICharacter.arc,168,,Crafting Related,Objet à lancer
 168,RECIPE_CATE_USE_ITEM_THROW,投擲道具,Objet à lancer,ui\00_message\ui\Craft_res.gmd,\ui\uGUICraft.arc,uGUICraft.arc,168,,Crafting Related,Objet à lancer
 168,RECIPE_CATE_USE_ITEM_THROW,投擲道具,Objet à lancer,ui\00_message\ui\Craft_res.gmd,\ui\uGUIPopCraftDetail.arc,uGUIPopCraftDetail.arc,168,,Crafting Related,Objet à lancer
@@ -277792,11 +277818,11 @@ Vous pouvez maintenant changer la couleur."
 150,ROW_PROGRESS,Progress,Progression,ui\00_message\ui\Craft_res.gmd,\ui\uGUIPopCraftDetail.arc,uGUIPopCraftDetail.arc,150,,Crafting Related,Progression
 150,ROW_PROGRESS,Progress,Progression,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubList.arc,uGUISubList.arc,150,,Crafting Related,Progression
 150,ROW_PROGRESS,Progress,Progression,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubRecipe.arc,uGUISubRecipe.arc,150,,Crafting Related,Progression
-40,ROW_REQUIRED,必要数,Nombre,ui\00_message\ui\Craft_res.gmd,\ui\uGUICharacter.arc,uGUICharacter.arc,40,,Crafting Related,Nombre
-40,ROW_REQUIRED,必要数,Nombre,ui\00_message\ui\Craft_res.gmd,\ui\uGUICraft.arc,uGUICraft.arc,40,,Crafting Related,Nombre
-40,ROW_REQUIRED,必要数,Nombre,ui\00_message\ui\Craft_res.gmd,\ui\uGUIPopCraftDetail.arc,uGUIPopCraftDetail.arc,40,,Crafting Related,Nombre
-40,ROW_REQUIRED,必要数,Nombre,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubList.arc,uGUISubList.arc,40,,Crafting Related,Nombre
-40,ROW_REQUIRED,必要数,Nombre,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubRecipe.arc,uGUISubRecipe.arc,40,,Crafting Related,Nombre
+40,ROW_REQUIRED,必要数,Nb.,ui\00_message\ui\Craft_res.gmd,\ui\uGUICharacter.arc,uGUICharacter.arc,40,,Crafting Related,Nb.
+40,ROW_REQUIRED,必要数,Nb.,ui\00_message\ui\Craft_res.gmd,\ui\uGUICraft.arc,uGUICraft.arc,40,,Crafting Related,Nb.
+40,ROW_REQUIRED,必要数,Nb.,ui\00_message\ui\Craft_res.gmd,\ui\uGUIPopCraftDetail.arc,uGUIPopCraftDetail.arc,40,,Crafting Related,Nb.
+40,ROW_REQUIRED,必要数,Nb.,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubList.arc,uGUISubList.arc,40,,Crafting Related,Nb.
+40,ROW_REQUIRED,必要数,Nb.,ui\00_message\ui\Craft_res.gmd,\ui\uGUISubRecipe.arc,uGUISubRecipe.arc,40,,Crafting Related,Nb.
 30,ROW_STATUS,Status,Statut,ui\00_message\ui\Craft_res.gmd,\ui\uGUICharacter.arc,uGUICharacter.arc,30,,Crafting Related,Statut
 30,ROW_STATUS,Status,Statut,ui\00_message\ui\Craft_res.gmd,\ui\uGUICraft.arc,uGUICraft.arc,30,,Crafting Related,Statut
 30,ROW_STATUS,Status,Statut,ui\00_message\ui\Craft_res.gmd,\ui\uGUIPopCraftDetail.arc,uGUIPopCraftDetail.arc,30,,Crafting Related,Statut
@@ -278128,7 +278154,7 @@ les pions de soutien le quitteront eux aussi.</COL>"
 21,daily_mission_get_reward_post,ポストに受け取る,Recevoir dans Item Post,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,21,,Daily Mission,Recevoir dans Item Post
 23,daily_mission_get_reward_storage,保管ボックスに受け取る,Envoyer au coffre,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,23,,Daily Mission,Envoyer au coffre
 24,daily_mission_get_reward_success,アイテムを受け取りました,Vous avez reçu un objet.,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,24,,Daily Mission,Vous avez reçu un objet.
-33,daily_mission_get_reward_time_event,期間イベントの報酬はメールで配信されます,Les récompenses de l'événement temporaire seront envoyées par message.,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,33,,Daily Mission,Les récompenses de l'événement temporaire seront envoyées par message.
+33,daily_mission_get_reward_time_event,期間イベントの報酬はメールで配信されます,Les récompenses de l'Event temporaire seront envoyées par message.,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,33,,Daily Mission,Les récompenses de l'Event temporaire seront envoyées par message.
 20,daily_mission_get_reward_title,"報酬アイテムをすべて受け取ります
 受取先を選択してください",Choisissez ou recevoir tous les objets de recompense.,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,20,,Daily Mission,Choisissez ou recevoir tous les objets de recompense.
 32,daily_mission_get_reward_wallet_title,報酬をすべて受け取りますか？,Recevoir toutes les recompenses ?,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,32,,Daily Mission,Recevoir toutes les recompenses ?
@@ -278145,7 +278171,7 @@ les pions de soutien le quitteront eux aussi.</COL>"
 12,daily_mission_list_reward_still,ー,ー,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,12,,Daily Mission,ー
 6,daily_mission_list_reward_title,報酬：,Recompense :,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,6,,Daily Mission,Recompense :
 28,daily_mission_no_reward,受取可能な報酬がありません,Aucune récompense à récupérer.,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,28,,Daily Mission,Aucune récompense à récupérer.
-27,daily_mission_no_time_event,配信されている期間イベントがありません,Aucun événement temporaire n'est actuellement en cours.,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,27,,Daily Mission,Aucun événement temporaire n'est actuellement en cours.
+27,daily_mission_no_time_event,配信されている期間イベントがありません,Aucun Event temporaire n'est actuellement en cours.,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,27,,Daily Mission,Aucun Event temporaire n'est actuellement en cours.
 17,daily_mission_reward_state,<COL ffdc78>達成</COL>,<COL ffdc78>Terminé</COL>,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,17,,Daily Mission,<COL ffdc78>Terminé</COL>
 16,daily_mission_reward_title,報酬アイテム,Objet de recompense,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,16,,Daily Mission,Objet de recompense
 15,daily_mission_summary_limit_info,ミッション終了期限,Date limite de la mission,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,15,,Daily Mission,Date limite de la mission
@@ -278161,8 +278187,8 @@ les pions de soutien le quitteront eux aussi.</COL>"
 1,daily_mission_title_sub,リワードミッション,Mission de recompense,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,1,,Daily Mission,Mission de recompense
 35,daily_mission_title_sub_mission_list,ミッションリスト,Liste des missions,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,35,,Daily Mission,Liste des missions
 37,daily_mission_title_sub_special_reward,特別報酬,Recompense speciale,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,37,,Daily Mission,Recompense speciale
-39,daily_mission_title_sub_time_event,期間イベント,Evenement chronometre,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,39,,Daily Mission,Evenement chronometre
-38,daily_mission_title_time_event,TimeEvent,Evenement chronometre,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,38,,Daily Mission,Evenement chronometre
+39,daily_mission_title_sub_time_event,期間イベント,Event chronometre,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,39,,Daily Mission,Event chronometre
+38,daily_mission_title_time_event,TimeEvent,Event chronometre,ui\00_message\ui\DailyMission.gmd,\ui\uGUIDailyMission.arc,uGUIDailyMission.arc,38,,Daily Mission,Event chronometre
 0,DialogTextBox_res_5778,新たなポーンの名前を入力してください,Saisissez le nom de votre nouveau pion.,ui\00_message\ui\DialogTextBox_res.gmd,\ui\uGUIDialogTextBox.arc,uGUIDialogTextBox.arc,0,,,Saisissez le nom de votre nouveau pion.
 10,EFC_SEALED_DECIDE_BTN,決定,Confirmer,ui\00_message\ui\EfcSealed_res.gmd,\ui\uGUIEffectSealed.arc,uGUIEffectSealed.arc,10,,BBM Sealing,Confirmer
 14,EFC_SEALED_ERROR_DECIDE_NO_SELECT,何も選択していない為、封印することができません,Aucun effet sélectionné : scellement impossible.,ui\00_message\ui\EfcSealed_res.gmd,\ui\uGUIEffectSealed.arc,uGUIEffectSealed.arc,14,,BBM Sealing,Aucun effet sélectionné : scellement impossible.
@@ -278225,18 +278251,18 @@ mesure que vous scellez des effets."
 12,OSD_date,<DATE>,<DATE>,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,12,,Cash Shop,<DATE>
 10,OSD_effectivedate_text1,黄金石の有効期限は、獲得から4か月後の月末までです,"Les Golden Gemstones expirent à la fin du mois, 4 mois après leur achat.",ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,10,,Cash Shop,"Les Golden Gemstones expirent à la fin du mois, 4 mois après leur achat."
 11,OSD_effectivedate_text2,まで有効の黄金石,Golden Gemstones expirant,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,11,,Cash Shop,Golden Gemstones expirant
-15,OSD_eventcode_index_en,Event Code,Code événement,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,15,,Cash Shop,Code événement
-16,OSD_eventcode_index_jp,イベントコードの入力,Saisir un code événement,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,16,,Cash Shop,Saisir un code événement
+15,OSD_eventcode_index_en,Event Code,Code Event,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,15,,Cash Shop,Code Event
+16,OSD_eventcode_index_jp,イベントコードの入力,Saisir un code Event,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,16,,Cash Shop,Saisir un code Event
 18,OSD_eventcode_ok,決定,Confirmer,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,18,,Cash Shop,Confirmer
-17,OSD_eventcode_title,16ケタのイベントコードを入力してください,Saisissez votre code d'evenement a 16 chiffres.,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,17,,Cash Shop,Saisissez votre code d'evenement a 16 chiffres.
-19,OSD_eventcode_warning,イベントコードに関する注意,Infos sur les codes d'événement,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,19,,Cash Shop,Infos sur les codes d'événement
+17,OSD_eventcode_title,16ケタのイベントコードを入力してください,Saisissez votre code d'Event a 16 chiffres.,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,17,,Cash Shop,Saisissez votre code d'Event a 16 chiffres.
+19,OSD_eventcode_warning,イベントコードに関する注意,Infos sur les codes d'Event,ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,19,,Cash Shop,Infos sur les codes d'Event
 20,OSD_eventcode_warning_text,"イベントコード入力を5回失敗すると、
 3時間イベントコードの入力ができなくなります
 コード特典は現在ログイン中の
-キャラクターのみに適用されます","Après 5 codes événement incorrects, vous ne pourrez
+キャラクターのみに適用されます","Après 5 codes Event incorrects, vous ne pourrez
 plus en saisir pendant 3 heures. Les avantages du
 code s'appliquent uniquement au personnage
-actuellement connecté.",ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,20,,Cash Shop,"Après 5 codes événement incorrects, vous ne pourrez
+actuellement connecté.",ui\00_message\ui\GPShopDialog_res.gmd,\ui\uGUIGPShopDialog.arc,uGUIGPShopDialog.arc,20,,Cash Shop,"Après 5 codes Event incorrects, vous ne pourrez
 plus en saisir pendant 3 heures. Les avantages du
 code s'appliquent uniquement au personnage
 actuellement connecté."
@@ -278382,7 +278408,7 @@ Emplacement : <VAL>"
 21,ItemJudge_appraise_notice,以下のアイテムを獲得しました,Vous avez obtenu les objets suivants.,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,21,,Appraisal,Vous avez obtenu les objets suivants.
 27,ItemJudge_category,Category,Categorie,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,27,,Appraisal,Categorie
 7,ItemJudge_cost,費用,Coût,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,7,,Appraisal,Coût
-12,ItemJudge_get_num,獲得数,Nombre,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,12,,Appraisal,Nombre
+12,ItemJudge_get_num,獲得数,Nb.,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,12,,Appraisal,Nb.
 17,ItemJudge_infinit,無期限,Sans limite de durée,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,17,,Appraisal,Sans limite de durée
 11,ItemJudge_limit_num,回数制限,Limite,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,11,,Appraisal,Limite
 22,ItemJudge_limit_num_error,回数制限があります。これ以上は交換できません,Limite d'utilisation atteinte : aucun échange supplémentaire possible.,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,22,,Appraisal,"Limite d'utilisation atteinte : aucun échange
@@ -278392,7 +278418,7 @@ supplémentaire possible."
 29,ItemJudge_man_only,[男性専用],[Hommes uniquement],ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,29,,Appraisal,[Hommes uniquement]
 8,ItemJudge_need_item,必要アイテム,Objets requis,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,8,,Appraisal,Objets requis
 18,ItemJudge_need_list,費用/必要アイテム一覧,Liste des coûts et objets nécessaires,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,18,,Appraisal,Liste des coûts et objets nécessaires
-9,ItemJudge_need_num,必要数,Nombre,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,9,,Appraisal,Nombre
+9,ItemJudge_need_num,必要数,Nb.,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,9,,Appraisal,Nb.
 25,ItemJudge_nothing_error,現在、配信されていません,Aucun échange disponible actuellement.,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,25,,Appraisal,Aucun échange disponible actuellement.
 16,ItemJudge_period,期限,Période,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,16,,Appraisal,Période
 30,ItemJudge_select_storage_error,この保存先は選択できません,Cet emplacement ne peut pas être sélectionné.,ui\00_message\ui\ItemJudge.gmd,\ui\uGUIItemAppraise.arc,uGUIItemAppraise.arc,30,,Appraisal,Cet emplacement ne peut pas être sélectionné.
@@ -278496,7 +278522,7 @@ précédent.</COL>"
 14,mr_msg_tab_score,スコア詳細,Détails du score,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,14,,,Détails du score
 11,mr_msg_tec_score,Technical Score,Score technique,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,11,,,Score technique
 12,mr_msg_tec_score_best,Best Technical Score,Meilleur score technique,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,12,,,Meilleur score technique
-8,mr_msg_times,回数,Nombre,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,8,,,Nombre
+8,mr_msg_times,回数,Nb.,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,8,,,Nb.
 20,mr_msg_title_en,Mission Result,Resultat de mission,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,20,,,Resultat de mission
 21,mr_msg_title_jp,ミッションリザルト,Resultats de la mission,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,21,,,Resultats de la mission
 1,mr_msg_total,Grand Total Score,Score total,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,1,,,Score total
@@ -278587,15 +278613,15 @@ Coût : <VAL RIM> Cristaux de faille
 Total : <VAL RIM> Cristaux de faille"
 77,np_msg_dp_info_att_cap,注意事項,Remarque importante,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,77,,Lestania News,Remarque importante
 78,np_msg_dp_info_att_inf,"<UNTN DP>、ウォーミッション累積ポイントは
-次回のコンテンツ開催時にリセットされます","<UNTN DP>, les points cumulés de War Mission seront réinitialisés au début de la prochaine session de cet événement.",ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,78,,Lestania News,"<UNTN DP>, les points cumulés de War Mission seront réinitialisés au début de la prochaine session de cet événement."
+次回のコンテンツ開催時にリセットされます","<UNTN DP>, les points cumulés de War Mission seront réinitialisés au début de la prochaine session de cet Event.",ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,78,,Lestania News,"<UNTN DP>, les points cumulés de War Mission seront réinitialisés au début de la prochaine session de cet Event."
 76,np_msg_dp_info_name_acc,ウォーミッション累積ポイント,Points cumulés de mission de guerre,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,76,,Lestania News,Points cumulés de mission de guerre
 75,np_msg_dp_info_name_pos,<UNTN DP>,<UNTN DP>,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,75,,Lestania News,<UNTN DP>
 74,np_msg_dp_info_title,ポイント獲得状況,Etat des points obtenus,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,74,,Lestania News,Etat des points obtenus
 52,np_msg_entry_point,参加場所,Lieu de participation,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,52,,Lestania News,Lieu de participation
-69,np_msg_event_select,Event Select,Choix de l'événement,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,69,,Lestania News,Choix de l'événement
+69,np_msg_event_select,Event Select,Choix de l'Event,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,69,,Lestania News,Choix de l'Event
 6,np_msg_fit,推奨,Recommandé,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,6,,Lestania News,Recommandé
 54,np_msg_func_disable,この機能は現在使用できません,Cette fonction est actuellement indisponible.,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,54,,Lestania News,Cette fonction est actuellement indisponible.
-22,np_msg_guid_others,他のイベント情報,Infos sur les autres événements,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,22,,Lestania News,Infos sur les autres événements
+22,np_msg_guid_others,他のイベント情報,Infos sur les autres Events,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,22,,Lestania News,Infos sur les autres Events
 61,np_msg_guide_partybonus,パーティーボーナス情報,Infos sur les bonus de groupe,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,61,,Lestania News,Infos sur les bonus de groupe
 72,np_msg_header_gm,Grand Mission,Grand Mission,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,72,,Lestania News,Grand Mission
 73,np_msg_header_wm,War Mission,War Mission,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,73,,Lestania News,War Mission
@@ -278619,7 +278645,7 @@ Total : <VAL RIM> Cristaux de faille"
 36,np_msg_noreward,報酬なし,Aucune récompense,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,36,,Lestania News,Aucune récompense
 15,np_msg_nothing,---,—,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,15,,Lestania News,—
 71,np_msg_order_info,受注条件情報,Conditions d'acces,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,71,,Lestania News,Conditions d'acces
-47,np_msg_period,配信期間,Période de l'événement,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,47,,Lestania News,Période de l'événement
+47,np_msg_period,配信期間,Période de l'Event,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,47,,Lestania News,Période de l'Event
 82,np_msg_period_01,本作戦進行期間,Période de déroulement de l'opération principale,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,82,,Lestania News,Période de déroulement de l'opération principale
 83,np_msg_period_02,戦果分析期間,Période d'analyse des résultats du combat,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,83,,Lestania News,Période d'analyse des résultats du combat
 84,np_msg_period_03,報酬配分期間,Période de distribution des récompenses,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,84,,Lestania News,Période de distribution des récompenses
@@ -278656,7 +278682,7 @@ Total : <VAL RIM> Cristaux de faille"
 21,np_msg_title,レスタニアニュース,Actualites de Lestania,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,21,,Lestania News,Actualites de Lestania
 56,np_msg_total,Total,Total,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,56,,Lestania News,Total
 37,np_msg_update,集計日: <DATE>,Date du calcul : <DATE>,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,37,,Lestania News,Date du calcul : <DATE>
-80,np_msg_wm_limited_condition_open,期間限定開催！,Événement à durée limitée !,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,80,,Lestania News,Événement à durée limitée !
+80,np_msg_wm_limited_condition_open,期間限定開催！,Event à durée limitée !,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,80,,Lestania News,Event à durée limitée !
 85,np_msg_wm_limited_multi_open,詳しくはコンテンツ窓口を確認してください,Consultez le guichet des contenus pour en savoir plus.,ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,85,,Lestania News,Consultez le guichet des contenus pour en savoir plus.
 0,NPCWINDOW_MSG_RECOMMEND,推奨,Recommandé,ui\00_message\ui\NpcWindow_res.gmd,\ui\uGUINpcWindow.arc,uGUINpcWindow.arc,0,,,Recommandé
 24,party_list_area_name,<NAME AREA>,<NAME AREA>,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,24,,,<NAME AREA>
@@ -278769,7 +278795,7 @@ Total : <VAL RIM> Cristaux de faille"
 しばらく経ってから再度お試しください",Le serveur est occupé. Veuillez réessayer plus tard.,ui\00_message\ui\Photo_Upload.gmd,\ui\uGUIPhotoUpload.arc,uGUIPhotoUpload.arc,6,,,Le serveur est occupé. Veuillez réessayer plus tard.
 0,PlatformWord_Controller,コントローラー,Manette,ui\00_message\ui\PlatformWord_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,,Manette
 1,PlatformWord_PlatformName,PC,PC,ui\00_message\ui\PlatformWord_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,,PC
-12,pop_detail_1stack_bag,アイテムバッグ1枠スタック数：,Nombre maximal d'objets par pile dans le sac :,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,12,,,Nombre maximal d'objets par pile dans le sac :
+12,pop_detail_1stack_bag,アイテムバッグ1枠スタック数：,Nb. max. d'objets par pile :,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,12,,,Nb. max. d'objets par pile :
 8,pop_detail_G,G,G,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,8,,,G
 9,pop_detail_LV,LV.,LVL,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,9,,,LVL
 23,pop_detail_add_status_1,Add Status,Ajouter un statut,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,23,,,Ajouter un statut
@@ -278780,7 +278806,7 @@ Total : <VAL RIM> Cristaux de faille"
 30,pop_detail_bbi_001,Unparsable,Impossible à analyser,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,30,,,Impossible à analyser
 31,pop_detail_bbi_002,<COL ffdc78>？？？（入手すると判明します）</COL>,<COL ffdc78>??? (identifié après obtention)</COL>,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,31,,,<COL ffdc78>??? (identifié après obtention)</COL>
 6,pop_detail_caption,Details,Details,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,6,,,Details
-13,pop_detail_comparison_eq,比較装備：,Comparaison des équipements :,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,13,,,Comparaison des équipements :
+13,pop_detail_comparison_eq,比較装備：,Compar. des equipements :,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,13,,,Compar. des equipements :
 5,pop_detail_craft,Craft,Menu de fabrication,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,5,,,Menu de fabrication
 11,pop_detail_eq_crest_slot,装着クレスト：スロット,Emplacement de Crest équipé :,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,11,,,Emplacement de Crest équipé :
 0,pop_detail_item_rank,Item Rank,Rang de l'objet,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,0,,,Rang de l'objet
@@ -279655,16 +279681,16 @@ en retournant dans une zone sûre ou au White Dragon Temple."
 123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Quetes speciales,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,123,,,Quetes speciales
 123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Quetes speciales,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,123,,,Quetes speciales
 123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Quetes speciales,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,123,,,Quetes speciales
-56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'événement,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,56,,,Durée de l'événement
-56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'événement,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,56,,,Durée de l'événement
-56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'événement,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,56,,,Durée de l'événement
-56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'événement,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPackageQuestHistory.arc,uGUIPackageQuestHistory.arc,56,,,Durée de l'événement
-56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'événement,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPopRmcQuestInfo.arc,uGUIPopRmcQuestInfo.arc,56,,,Durée de l'événement
-56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'événement,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestBoard.arc,uGUIQuestBoard.arc,56,,,Durée de l'événement
-56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'événement,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestDelivery.arc,uGUIQuestDelivery.arc,56,,,Durée de l'événement
-56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'événement,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,56,,,Durée de l'événement
-56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'événement,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,56,,,Durée de l'événement
-56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'événement,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,56,,,Durée de l'événement
+56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'Event,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,56,,,Durée de l'Event
+56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'Event,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,56,,,Durée de l'Event
+56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'Event,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,56,,,Durée de l'Event
+56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'Event,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPackageQuestHistory.arc,uGUIPackageQuestHistory.arc,56,,,Durée de l'Event
+56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'Event,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPopRmcQuestInfo.arc,uGUIPopRmcQuestInfo.arc,56,,,Durée de l'Event
+56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'Event,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestBoard.arc,uGUIQuestBoard.arc,56,,,Durée de l'Event
+56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'Event,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestDelivery.arc,uGUIQuestDelivery.arc,56,,,Durée de l'Event
+56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'Event,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,56,,,Durée de l'Event
+56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'Event,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,56,,,Durée de l'Event
+56,QUEST_MSG_HOLDING_PERIOD,開催期間,Durée de l'Event,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,56,,,Durée de l'Event
 16,QUEST_MSG_LB_ABS,概要,Vue d'ensemble,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,16,,,Vue d'ensemble
 16,QUEST_MSG_LB_ABS,概要,Vue d'ensemble,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,16,,,Vue d'ensemble
 16,QUEST_MSG_LB_ABS,概要,Vue d'ensemble,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,16,,,Vue d'ensemble
@@ -283404,7 +283430,7 @@ autre."
 1,CF_LOBBYALL,Shout,Crier,ui\00_message\ui\chatfilter_res.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,,Crier
 2,CF_PARTY,Party,Membres du groupe,ui\00_message\ui\chatfilter_res.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,,Membres du groupe
 10,CF_PAWN,Pawn,Pion,ui\00_message\ui\chatfilter_res.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,,Pion
-9,CF_QUEST,Event,Événement,ui\00_message\ui\chatfilter_res.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,,Événement
+9,CF_QUEST,Event,Event,ui\00_message\ui\chatfilter_res.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,,Event
 4,CF_SYSTEM,System,Système,ui\00_message\ui\chatfilter_res.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,,Système
 3,CF_TELL,Tell,Message privé,ui\00_message\ui\chatfilter_res.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,,Message privé
 7,CLAN_EDHIT_MSG_ACHECK,すべてにチェック,Tout sélectionner,ui\00_message\ui\clan_edit.gmd,\ui\uGUIClanEdit.arc,uGUIClanEdit.arc,7,,,Tout sélectionner
@@ -284017,8 +284043,8 @@ dans Modifier le clan.)"
 318,ana_common_refuse,拒否,Refuser,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,318,,,Refuser
 319,ana_common_return,戻る,Retour,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,319,,,Retour
 623,ana_conf_end_of_eventviewer,"イベントビューアーを終了して
-前の画面に戻りますか？","Quitter la galerie d'événements
-et revenir à l'écran précédent ?",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,623,,,"Quitter la galerie d'événements
+前の画面に戻りますか？","Quitter la galerie d'Events
+et revenir à l'écran précédent ?",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,623,,,"Quitter la galerie d'Events
 et revenir à l'écran précédent ?"
 620,ana_conf_start_of_device,思い出を見ますか？,Souhaitez-vous consulter les souvenirs ?,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,620,,,Souhaitez-vous consulter les souvenirs ?
 241,ana_content_party_standby,パーティーの準備ができたので移動しますか？,Votre groupe est prêt. Voulez-vous partir ?,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,241,,,Votre groupe est prêt. Voulez-vous partir ?
@@ -284439,7 +284465,7 @@ peut perturber le fonctionnement du jeu.</COL>"
 481,ana_keyconfig_dialog_overlap_item_1,重複しているキーを変更前に戻して閉じる,Annuler la touche en conflit et fermer.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,481,,,Annuler la touche en conflit et fermer.
 483,ana_keyconfig_edit_name_title,名前の編集,Modifier le nom,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,483,,,Modifier le nom
 499,ana_keyconfig_ng_can_not_be_changed,このキーは変更できません,Cette touche ne peut pas être modifiée.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,499,,,Cette touche ne peut pas être modifiée.
-553,ana_lde_no_items,開催しているイベントがありません,Aucun événement n'est en cours.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,553,,,Aucun événement n'est en cours.
+553,ana_lde_no_items,開催しているイベントがありません,Aucun Event n'est en cours.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,553,,,Aucun Event n'est en cours.
 103,ana_leader_join_ready_info,リーダーがパーティー要請を受諾しました。一定時間内に準備完了してください,Le chef a accepté la demande de groupe. Veuillez confirmer que vous êtes prêt avant la fin du délai.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,103,,,Le chef a accepté la demande de groupe. Veuillez confirmer que vous êtes prêt avant la fin du délai.
 391,ana_lostpawn_rescue,<NAME PAWN>を復活させました,<NAME PAWN> a été secouru.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,391,,,<NAME PAWN> a été secouru.
 389,ana_lostpawn_rescue_q,"<VAL RIM>を消費して
@@ -286678,7 +286704,7 @@ Mode de paiement : <VAL>"
 58,gacha_msg_draw_ticket,チケットでまわす,Utiliser des Silver Tickets,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,58,,Gacha System,Utiliser des Silver Tickets
 63,gacha_msg_free,無料,Gratuit,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,63,,Gacha System,Gratuit
 72,gacha_msg_getitem,獲得アイテム,Objet obtenu,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,72,,Gacha System,Objet obtenu
-73,gacha_msg_getnum,獲得数,Nombre,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,73,,Gacha System,Nombre
+73,gacha_msg_getnum,獲得数,Nb.,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,73,,Gacha System,Nb.
 0,gacha_msg_holding_goldenstone,所持黄金石,Total des Golden Gemstones,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,0,,Gacha System,Total des Golden Gemstones
 1,gacha_msg_holding_ticket,所持シルバーチケット,Silver Tickets en possession,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,1,,Gacha System,Silver Tickets en possession
 25,gacha_msg_isdraw_by_a_stone,"黄金石<VAL>個を消費して、
@@ -286782,7 +286808,7 @@ Adressez-vous à Cameron ou au PNJ concerné."
 Adressez-vous à Cameron ou au PNJ concerné.",ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,137,,Gacha System,"Réception impossible depuis le menu du jeu.
 Adressez-vous à Cameron ou au PNJ concerné."
 138,lde_msg_err_005,受取可能なアイテムがありません,Aucun objet disponible.,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,138,,Gacha System,Aucun objet disponible.
-106,lde_msg_tab_01,イベント概要,Résumé de l'événement,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,106,,Gacha System,Résumé de l'événement
+106,lde_msg_tab_01,イベント概要,Résumé de l'Event,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,106,,Gacha System,Résumé de l'Event
 107,lde_msg_tab_02,納品対象,Objets à livrer,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,107,,Gacha System,Objets à livrer
 108,lde_msg_tab_03,報酬リスト,Liste des récompenses,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,108,,Gacha System,Liste des récompenses
 109,lde_msg_tab_04,詳細情報,Informations détaillées,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,109,,Gacha System,Informations détaillées
@@ -286812,8 +286838,8 @@ pour recevoir toutes les récompenses."
 133,lde_msg_text_021,に受け取りました,Reçu,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,133,,Gacha System,Reçu
 139,lde_msg_text_022,位,Rang,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,139,,Gacha System,Rang
 140,lde_msg_text_023,時点,À ce jour,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,140,,Gacha System,À ce jour
-104,lde_msg_title_e,Large Delivery Event,Evenement de livraison majeure,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,104,,Gacha System,Evenement de livraison majeure
-105,lde_msg_title_j,大口納品イベント,Evenement de livraison majeure,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,105,,Gacha System,Evenement de livraison majeure
+104,lde_msg_title_e,Large Delivery Event,Event de livraison majeure,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,104,,Gacha System,Event de livraison majeure
+105,lde_msg_title_j,大口納品イベント,Event de livraison majeure,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,105,,Gacha System,Event de livraison majeure
 31,menu_achievement,アチーブメント,Succès,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,31,,Game Menu,Succes
 61,menu_adv_guide,冒険ガイド,Guide de l'aventurier,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,61,,Game Menu,Guide de l'aventurier
 35,menu_area_infomation,エリアリスト,Liste des zones,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,35,,Game Menu,Liste des zones
@@ -286823,7 +286849,7 @@ pour recevoir toutes les récompenses."
 50,menu_caplink,カプリンク,Caplink,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,50,,Game Menu,Caplink
 11,menu_clan,クランステータス,Statut du clan,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,Game Menu,Statut du clan
 52,menu_clan_management,クラン管理,Gestion du clan,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,52,,Game Menu,Gestion du clan
-38,menu_code,イベントコード入力,Saisir un code d'événement,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,38,,Game Menu,Saisir un code d'evenement
+38,menu_code,イベントコード入力,Saisir un code d'Event,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,38,,Game Menu,Saisir un code d'Event
 12,menu_community,コミュニティリスト,Liste de la communauté,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,Game Menu,Liste de la communaute
 41,menu_confirm_go_launcher,"ログアウトしてランチャー画面に戻ります
 よろしいですか？",Quitter et retourner au launcher ?,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,41,,Game Menu,Quitter et retourner au launcher ?
@@ -286843,7 +286869,7 @@ pour recevoir toutes les récompenses."
 14,menu_gp_charge,黄金石の確認,Consulter les gemmes dorées,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,14,,Game Menu,Consulter les gemmes dorees
 21,menu_gp_shop,オンラインショップ,Boutique en ligne,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21,,Game Menu,Boutique en ligne
 20,menu_gp_status,オンラインステーション,Station en ligne,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,20,,Game Menu,Station en ligne
-62,menu_infdelivery_event,大口納品イベント,Événement de livraison majeure,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,62,,Game Menu,Evenement de livraison majeure
+62,menu_infdelivery_event,大口納品イベント,Event de livraison majeure,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,62,,Game Menu,Event de livraison majeure
 0,menu_item,アイテムバッグ,Sac d'objets,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Game Menu,Sac d'objets
 1,menu_key_item,キーアイテム,Objets clés,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Game Menu,Objets cles
 18,menu_license,ライセンス,Licence,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,18,,Game Menu,Licence
@@ -286932,10 +286958,10 @@ livraison ?"
 6,HANDOVER_MSG_TITLE_M_TITLE03,プレゼント,Cadeau,ui\00_message\ui\general_handover.gmd,\ui\uGUIGiveAndTake.arc,uGUIGiveAndTake.arc,6,,,Cadeau
 12,HANDOVER_MSG_TITLE_M_TITLE04,Delivery,Livraison,ui\00_message\ui\general_handover.gmd,\ui\uGUIGiveAndTake.arc,uGUIGiveAndTake.arc,12,,,Livraison
 13,HANDOVER_MSG_TITLE_M_TITLE05,納品,Livraison,ui\00_message\ui\general_handover.gmd,\ui\uGUIGiveAndTake.arc,uGUIGiveAndTake.arc,13,,,Livraison
-4,HISTORY_MSG_BTN_GUIDE_EVENT_VIEWER,イベントリストを開く,Ouvrir la liste des événements,ui\00_message\ui\history.gmd,\ui\uGUIQuestHistory.arc,uGUIQuestHistory.arc,4,,,Ouvrir la liste des événements
-5,HISTORY_MSG_ERROR_NO_EVENT,イベントがありません,Aucun événement,ui\00_message\ui\history.gmd,\ui\uGUIQuestHistory.arc,uGUIQuestHistory.arc,5,,,Aucun événement
-2,HISTORY_MSG_TITLE_EVENT_VIEWER_01,Event Viewer,Visionneuse d'evenements,ui\00_message\ui\history.gmd,\ui\uGUIQuestHistory.arc,uGUIQuestHistory.arc,2,,,Visionneuse d'evenements
-3,HISTORY_MSG_TITLE_EVENT_VIEWER_02,イベントビューアー,Visionneuse d'evenements,ui\00_message\ui\history.gmd,\ui\uGUIQuestHistory.arc,uGUIQuestHistory.arc,3,,,Visionneuse d'evenements
+4,HISTORY_MSG_BTN_GUIDE_EVENT_VIEWER,イベントリストを開く,Ouvrir la liste des Events,ui\00_message\ui\history.gmd,\ui\uGUIQuestHistory.arc,uGUIQuestHistory.arc,4,,,Ouvrir la liste des Events
+5,HISTORY_MSG_ERROR_NO_EVENT,イベントがありません,Aucun Event,ui\00_message\ui\history.gmd,\ui\uGUIQuestHistory.arc,uGUIQuestHistory.arc,5,,,Aucun Event
+2,HISTORY_MSG_TITLE_EVENT_VIEWER_01,Event Viewer,Visionneuse d'Events,ui\00_message\ui\history.gmd,\ui\uGUIQuestHistory.arc,uGUIQuestHistory.arc,2,,,Visionneuse d'Events
+3,HISTORY_MSG_TITLE_EVENT_VIEWER_02,イベントビューアー,Visionneuse d'Events,ui\00_message\ui\history.gmd,\ui\uGUIQuestHistory.arc,uGUIQuestHistory.arc,3,,,Visionneuse d'Events
 0,HISTRY_MSG_TITLE_01,Arisen History,Histoire de l'Arisen,ui\00_message\ui\history.gmd,\ui\uGUIQuestHistory.arc,uGUIQuestHistory.arc,0,,,Histoire de l'Arisen
 1,HISTRY_MSG_TITLE_02,ジョゼフの報告書,Rapports de Joseph,ui\00_message\ui\history.gmd,\ui\uGUIQuestHistory.arc,uGUIQuestHistory.arc,1,,,Rapports de Joseph
 88,hud_announce_bbi_clear,《%s》攻略！,« %s » terminé !,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,88,,,« %s » terminé !
@@ -287039,13 +287065,13 @@ a atteint le niveau <LEVEL>."
 38,hud_recommend_level,LV.%d,LV.%d,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,38,,,LV.%d
 36,hud_skill_move,発動,Déplacer,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,36,,,Déplacer
 14,hud_status_ailment_sec,秒,s,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,14,,,s
-15,hud_status_ailment_stamina,スタミナ回復,Recuperation d'endurance,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,,Recuperation d'endurance
+15,hud_status_ailment_stamina,スタミナ回復,Récup. endu.,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,,Récup. endu.
 8,hud_status_away,離席中,Absent,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,,Absent
 33,hud_status_disconnect,回線切断中,Déconnecté,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,33,,,Déconnecté
-9,hud_status_event,イベント,Événement,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,,Événement
+9,hud_status_event,イベント,Event,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,,Event
 7,hud_status_standby,スタンバイOK,Prêt,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,,Prêt
 5,category_total,合計,Total,ui\00_message\ui\infinity_delivery.gmd,\infinity_delivery.arc,infinity_delivery.arc,5,,Infinite Delivery,Total
-1,event_total,イベント合計,Total de l'événement,ui\00_message\ui\infinity_delivery.gmd,\infinity_delivery.arc,infinity_delivery.arc,1,,Infinite Delivery,Total de l'événement
+1,event_total,イベント合計,Total de l'Event,ui\00_message\ui\infinity_delivery.gmd,\infinity_delivery.arc,infinity_delivery.arc,1,,Infinite Delivery,Total de l'Event
 3,hour_am,AM,AM,ui\00_message\ui\infinity_delivery.gmd,\infinity_delivery.arc,infinity_delivery.arc,3,,Infinite Delivery,AM
 2,hour_pm,PM,PM,ui\00_message\ui\infinity_delivery.gmd,\infinity_delivery.arc,infinity_delivery.arc,2,,Infinite Delivery,PM
 4,now_delivery_num,現在の自分のあげたチョコの数,Chocolats offerts,ui\00_message\ui\infinity_delivery.gmd,\infinity_delivery.arc,infinity_delivery.arc,4,,Infinite Delivery,Chocolats offerts
@@ -287643,7 +287669,7 @@ ses informations supplémentaires.)"
 26,ITEM_WORK_27,「魔防上昇」付加,Def. magique +,ui\00_message\ui\item_work.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,26,,Item Effect,Def. magique +
 27,ITEM_WORK_28,「吹き飛ばし力上昇」付加,Puiss. renvers. +,ui\00_message\ui\item_work.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,27,,Item Effect,Puiss. renvers. +
 28,ITEM_WORK_29,「耐久力上昇」付加,Augmente l'endurance,ui\00_message\ui\item_work.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,28,,Item Effect,Augmente l'endurance
-29,ITEM_WORK_30,「生命治癒力上昇」付加,Augmente la limite de récupération,ui\00_message\ui\item_work.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,29,,Item Effect,Augmente la limite de récupération
+29,ITEM_WORK_30,「生命治癒力上昇」付加,Augmente la limite de récup.,ui\00_message\ui\item_work.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,29,,Item Effect,Augmente la limite de récup.
 30,ITEM_WORK_31,「体力上昇」付加,Augmente la santé maximale,ui\00_message\ui\item_work.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,30,,Item Effect,Augmente la santé maximale
 31,ITEM_WORK_32,「スタミナ上昇」付加,Augmente l'endurance maximale,ui\00_message\ui\item_work.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,31,,Item Effect,Augmente l'endurance maximale
 32,ITEM_WORK_33,「闇霧」解消,Soigne l'aveuglement,ui\00_message\ui\item_work.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,32,,Item Effect,Soigne l'aveuglement
@@ -288710,7 +288736,7 @@ tactiques !"
 3,ONLINE_STATUS_BUSY,取り込み中,Occupé,ui\00_message\ui\online_status.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,,,Occupé
 7,ONLINE_STATUS_CONTENTS,コンテンツ中,Dans une activité,ui\00_message\ui\online_status.gmd,\ui\menu_cmn.arc,menu_cmn.arc,7,,,Dans une activité
 4,ONLINE_STATUS_ENTRYBOARD,エントリーボード登録中,Inscription au tableau des participants en cours,ui\00_message\ui\online_status.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,,,Inscription au tableau des participants en cours
-6,ONLINE_STATUS_EVENT,イベント中,Dans un événement,ui\00_message\ui\online_status.gmd,\ui\menu_cmn.arc,menu_cmn.arc,6,,,Dans un événement
+6,ONLINE_STATUS_EVENT,イベント中,Dans un Event,ui\00_message\ui\online_status.gmd,\ui\menu_cmn.arc,menu_cmn.arc,6,,,Dans un Event
 1,ONLINE_STATUS_OFFLINE,オフライン,Hors ligne,ui\00_message\ui\online_status.gmd,\ui\menu_cmn.arc,menu_cmn.arc,1,,,Hors ligne
 0,ONLINE_STATUS_ONLINE,オンライン,En ligne,ui\00_message\ui\online_status.gmd,\ui\menu_cmn.arc,menu_cmn.arc,0,,,En ligne
 8,ONLINE_STATUS_PTL,パーティー参加中（リーダー）,Groupe (chef),ui\00_message\ui\online_status.gmd,\ui\menu_cmn.arc,menu_cmn.arc,8,,,Groupe (chef)
@@ -289148,7 +289174,7 @@ l'utilisation de la mini-carte"
 61,give_thunder_resist_down,与【雷防低下】蓄積値,Réduit la résistance à la foudre,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,61,,,Réduit la résistance à la foudre
 56,give_thunderShocked,与【感電】蓄積値,Inflige Électrocution,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,56,,,Inflige Électrocution
 46,give_torpor,与【遅延】蓄積値,Inflige Lenteur,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,46,,,Inflige Lenteur
-71,healing,生命治癒力,Limite de recuperation,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,71,,,Limite de recuperation
+71,healing,生命治癒力,Limite de récup.,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,71,,,Limite de récup.
 3,iitem_con,アイコン,Icône,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,,,Icône
 14,item_bazaar_ok,バザー出品OK,Vente au bazar autorisée,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,14,,,Vente au bazar autorisée
 4,item_caption,説明,Description,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,,,Description
@@ -289167,7 +289193,7 @@ l'utilisation de la mini-carte"
 16,item_levelcap,装備制限ジョブレベル,Équipement limité par le niveau de classe,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,16,,,Équipement limité par le niveau de classe
 24,item_magic_property,魔法属性,Attribut magique,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,24,,,Attribut magique
 15,item_material,素材分類,Catégorie de matériau,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,15,,,Catégorie de matériau
-19,item_max_equip,最大装着数,Nombre maximal d'emplacements,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,19,,,Nombre maximal d'emplacements
+19,item_max_equip,最大装着数,Nb. max. d'emplacements,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,19,,,Nb. max. d'emplacements
 2,item_max_possess,所持最大数,Taille de pile,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,2,,,Taille de pile
 11,item_max_price,バザー取引最高額,Prix maximal du bazar,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,11,,,Prix maximal du bazar
 12,item_minimum_price,バザー取引最低額,Prix minimal du bazar,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,12,,,Prix minimal du bazar
@@ -289247,7 +289273,7 @@ l'utilisation de la mini-carte"
 209,param_msg_posnum_gs,所持数：<VAL GS>,Quantité : <VAL GS>,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,209,,,Quantité : <VAL GS>
 211,param_msg_posnum_rim,所持数：<VAL RIM>,Quantité : <VAL RIM>,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,211,,,Quantité : <VAL RIM>
 214,param_msg_posnum_ticket,所持数：<VAL>枚,Quantité : <VAL>,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,214,,,Quantité : <VAL>
-200,param_msg_stamina_recovery,スタミナ回復,Recuperation d'endurance,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,200,,,Recuperation d'endurance
+200,param_msg_stamina_recovery,スタミナ回復,Récup. endu.,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,200,,,Récup. endu.
 197,param_msg_tolerance,耐性,Résistance,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,197,,,Résistance
 147,parts_arm_armor,腕防具,Armure de bras,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,147,,,Armure de bras
 145,parts_body_armor,胴アーマー,Armure de torse,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,145,,,Armure de torse
@@ -289271,8 +289297,8 @@ l'utilisation de la mini-carte"
 171,pawn_craftskill_powerup,クラフトスキル：装備の強化技術,Talent de fabrication : amélioration d'équipement,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,171,,,Talent de fabrication : amélioration d'équipement
 172,pawn_craftskill_quality,クラフトスキル：高品質装備の作成力,Talent de fabrication : qualité d'équipement,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,172,,,Talent de fabrication : qualité d'équipement
 170,pawn_craftskill_time,クラフトスキル：生産作業スピード,Talent de fabrication : vitesse de production,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,170,,,Talent de fabrication : vitesse de production
-178,pawn_number_of_adventure,冒険回数,Nombre de fabrications,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,178,,,Nombre de fabrications
-177,pawn_number_of_support,サポート回数,Nombre de combats,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,177,,,Nombre de combats
+178,pawn_number_of_adventure,冒険回数,Nb. de fabrications,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,178,,,Nb. de fabrications
+177,pawn_number_of_support,サポート回数,Nb. de combats,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,177,,,Nb. de combats
 68,phisical_difence,物理防御力,Def. physique,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,68,,,Def. physique
 21,physical_attack,物理攻撃力,Att. physique,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,21,,,Att. physique
 79,resist_cought_fire,延焼耐性,Résistance à la Brûlure,ui\00_message\ui\parameter.gmd,\ui\menu_cmn.arc,menu_cmn.arc,79,,,Résistance à la Brûlure
@@ -289361,7 +289387,7 @@ l'utilisation de la mini-carte"
 32,pawn_command_10851,大型敵優先,Priorité aux grands ennemis,ui\00_message\ui\pawn_command.gmd,\ui\gui_cmn.arc,gui_cmn.arc,32,,,Priorité aux grands ennemis
 33,pawn_command_10852,地上敵優先,Priorité aux ennemis au sol,ui\00_message\ui\pawn_command.gmd,\ui\gui_cmn.arc,gui_cmn.arc,33,,,Priorité aux ennemis au sol
 34,pawn_command_10853,飛行敵優先,Priorité aux ennemis volants,ui\00_message\ui\pawn_command.gmd,\ui\gui_cmn.arc,gui_cmn.arc,34,,,Priorité aux ennemis volants
-35,pawn_command_10854,スタミナ回復,Recuperation d'endurance,ui\00_message\ui\pawn_command.gmd,\ui\gui_cmn.arc,gui_cmn.arc,35,,,Recuperation d'endurance
+35,pawn_command_10854,スタミナ回復,Récup. endu.,ui\00_message\ui\pawn_command.gmd,\ui\gui_cmn.arc,gui_cmn.arc,35,,,Récup. endu.
 36,pawn_command_10855,シークレットコア発現,Révéler le noyau caché,ui\00_message\ui\pawn_command.gmd,\ui\gui_cmn.arc,gui_cmn.arc,36,,,Révéler le noyau caché
 37,pawn_command_10856,シークレットコア攻撃優先,Privilégier les attaques sur le noyau secret,ui\00_message\ui\pawn_command.gmd,\ui\gui_cmn.arc,gui_cmn.arc,37,,,Privilégier les attaques sur le noyau secret
 38,pawn_command_10857,敵弱体化：行動停止,Affaiblir : immobilisation,ui\00_message\ui\pawn_command.gmd,\ui\gui_cmn.arc,gui_cmn.arc,38,,,Affaiblir : immobilisation
@@ -290309,7 +290335,7 @@ les objets."
 2,PLAY_PURPOSE_MAIN_003,お金を稼ぐ,Gagner de l'argent,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,2,,,Gagner de l'argent
 3,PLAY_PURPOSE_MAIN_004,素材集め,Récolter des matériaux,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,,,Récolter des matériaux
 4,PLAY_PURPOSE_MAIN_005,オーブエネミーを倒す,Vaincre Blood Orb enemies,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,,,Vaincre Blood Orb enemies
-5,PLAY_PURPOSE_MAIN_006,イベントで遊ぶ,Participer aux événements,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,5,,,Participer aux événements
+5,PLAY_PURPOSE_MAIN_006,イベントで遊ぶ,Participer aux Events,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,5,,,Participer aux Events
 6,PLAY_PURPOSE_MAIN_007,大目的予備,Réserve polyvalente,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,6,,,Réserve polyvalente
 7,PLAY_PURPOSE_MAIN_008,大目的予備,Réserve polyvalente,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,7,,,Réserve polyvalente
 8,PLAY_PURPOSE_MAIN_009,大目的予備,Réserve polyvalente,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,8,,,Réserve polyvalente
@@ -290321,7 +290347,7 @@ les objets."
 26,PLAY_STYLE_004,お金大好き,Aimer gagner de l'argent,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,26,,,Aimer gagner de l'argent
 27,PLAY_STYLE_005,クエスト攻略大好き,Adore accomplir des quêtes,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,27,,,Adore accomplir des quêtes
 28,PLAY_STYLE_006,ミッション攻略大好き,Aimer terminer les missions,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,28,,,Aimer terminer les missions
-29,PLAY_STYLE_007,限定イベント大好き,Aimer les événements à durée limitée,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,29,,,Aimer les événements à durée limitée
+29,PLAY_STYLE_007,限定イベント大好き,Aimer les Events à durée limitée,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,29,,,Aimer les Events à durée limitée
 30,PLAY_STYLE_008,シナリオ大好き,Aimer les scénarios,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,30,,,Aimer les scénarios
 31,PLAY_STYLE_009,クラフト大好き,Aimer l'artisanat,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,31,,,Aimer l'artisanat
 32,PLAY_STYLE_010,ランキング大好き,Aimer les classements,ui\00_message\ui\play_style_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,32,,,Aimer les classements
@@ -290683,9 +290709,9 @@ vous reviendrez à votre classe d'origine."
 26,poptop_entryboard_menu,メニュー,Menu,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,26,,,Menu
 26,poptop_entryboard_menu,メニュー,Menu,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,26,,,Menu
 26,poptop_entryboard_menu,メニュー,Menu,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,26,,,Menu
-69,poptop_entryboard_newspaper,イベント確認,Consulter l'événement,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,69,,,Consulter l'événement
-69,poptop_entryboard_newspaper,イベント確認,Consulter l'événement,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,69,,,Consulter l'événement
-69,poptop_entryboard_newspaper,イベント確認,Consulter l'événement,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,69,,,Consulter l'événement
+69,poptop_entryboard_newspaper,イベント確認,Consulter l'Event,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,69,,,Consulter l'Event
+69,poptop_entryboard_newspaper,イベント確認,Consulter l'Event,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,69,,,Consulter l'Event
+69,poptop_entryboard_newspaper,イベント確認,Consulter l'Event,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,69,,,Consulter l'Event
 24,poptop_entryboard_num,<VAL>/<VAL>,<VAL>/<VAL>,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,24,,,<VAL>/<VAL>
 24,poptop_entryboard_num,<VAL>/<VAL>,<VAL>/<VAL>,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,24,,,<VAL>/<VAL>
 24,poptop_entryboard_num,<VAL>/<VAL>,<VAL>/<VAL>,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,24,,,<VAL>/<VAL>
@@ -290800,9 +290826,9 @@ vous reviendrez à votre classe d'origine."
 10,poptop_spotinfo,スポット情報,Informations sur le site,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,10,,,Informations sur le site
 10,poptop_spotinfo,スポット情報,Informations sur le site,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,10,,,Informations sur le site
 10,poptop_spotinfo,スポット情報,Informations sur le site,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,10,,,Informations sur le site
-104,poptop_time_event,期間イベント,Événement chronométré,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,104,,,Événement chronométré
-104,poptop_time_event,期間イベント,Événement chronométré,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,104,,,Événement chronométré
-104,poptop_time_event,期間イベント,Événement chronométré,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,104,,,Événement chronométré
+104,poptop_time_event,期間イベント,Event chronométré,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,104,,,Event chronométré
+104,poptop_time_event,期間イベント,Event chronométré,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,104,,,Event chronométré
+104,poptop_time_event,期間イベント,Event chronométré,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,104,,,Event chronométré
 66,poptop_warehouse_en,Menu,Menu,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,66,,,Menu
 66,poptop_warehouse_en,Menu,Menu,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,66,,,Menu
 66,poptop_warehouse_en,Menu,Menu,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,66,,,Menu
@@ -291423,7 +291449,7 @@ avec la classe sélectionnée."
 32,shop_title_gacha,Treasures Lot,Lot de tresors,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,32,,NPC Function Name,Lot de tresors
 33,shop_title_gacha_sub,トレジャーズロット,Treasure Lot,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,33,,NPC Function Name,Treasure Lot
 55,shop_title_hard_Quest,スペシャルクエストボード,Quetes speciales,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,55,,NPC Function Name,Quetes speciales
-56,shop_title_infdelivery_event,大口納品イベント,Evenement de livraison majeure,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,56,,NPC Function Name,Evenement de livraison majeure
+56,shop_title_infdelivery_event,大口納品イベント,Event de livraison majeure,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,56,,NPC Function Name,Event de livraison majeure
 11,shop_title_inn,Inn,Auberge,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,NPC Function Name,Auberge
 12,shop_title_inn_sub,宿屋,Auberge,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,NPC Function Name,Auberge
 54,shop_title_job_emblem,ジョブエンブレム,Embleme de classe,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,54,,NPC Function Name,Embleme de classe
@@ -292244,7 +292270,7 @@ announcement text≫",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.ar
 233,syslog_quest_progress_failed,"＜<NAME QUEST>＞の進行に失敗しました
 クエストログで進行状況を確認してください",Échec de la progression de <NAME QUEST>. Consultez le journal de quêtes.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,233,,System Chatbox Text,Échec de la progression de <NAME QUEST>. Consultez le journal de quêtes.
 58,syslog_quest_ready_ready,<NAME TARGET>が進行準備完了になりました,<NAME TARGET> est prêt à avancer !,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,58,,System Chatbox Text,<NAME TARGET> est prêt à avancer !
-57,syslog_quest_ready_start,<NAME TARGET>がイベント準備・パーティー招集を行いました,<NAME TARGET> a préparé l'événement et rassemblé le groupe.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,57,,System Chatbox Text,<NAME TARGET> a préparé l'événement et rassemblé le groupe.
+57,syslog_quest_ready_start,<NAME TARGET>がイベント準備・パーティー招集を行いました,<NAME TARGET> a préparé l'Event et rassemblé le groupe.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,57,,System Chatbox Text,<NAME TARGET> a préparé l'Event et rassemblé le groupe.
 203,syslog_quest_repeat_reward,＜<NAME QUEST>＞の報酬に、繰り返しボーナスが適用されました,Récompense bonus obtenue en répétant « <NAME QUEST> ».,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,203,,System Chatbox Text,Récompense bonus obtenue en répétant « <NAME QUEST> ».
 244,syslog_quest_root_reward,"条件が満たされたため、＜<NAME QUEST>＞の
 クリア報酬が変化します",Vous remplissez les conditions : la récompense finale de « <NAME QUEST> » va changer.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,244,,System Chatbox Text,Vous remplissez les conditions : la récompense finale de « <NAME QUEST> » va changer.
@@ -292296,7 +292322,7 @@ Matching conditions for Secondary Purpose
 31,syslog_status_resurrection_me,<NAME PLAYER>が復活しました,<NAME PLAYER> a été ressuscité.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,31,,System Chatbox Text,<NAME PLAYER> a été ressuscité.
 33,syslog_status_resurrection_pawn,<NAME PAWN>が復活しました,<NAME PAWN> a été ressuscité.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,33,,System Chatbox Text,<NAME PAWN> a été ressuscité.
 32,syslog_status_resurrection_someone,<NAME TARGET>が復活しました,<NAME TARGET> a été ressuscité.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,32,,System Chatbox Text,<NAME TARGET> a été ressuscité.
-191,syslog_success_input_eventcode,イベントコードの入力に成功しました,Code d'événement saisi avec succès.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,191,,System Chatbox Text,Code d'événement saisi avec succès.
+191,syslog_success_input_eventcode,イベントコードの入力に成功しました,Code d'Event saisi avec succès.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,191,,System Chatbox Text,Code d'Event saisi avec succès.
 4,syslog_tail_off,追従オートランが解除されました,Course automatique annulée.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,System Chatbox Text,Course automatique annulée.
 3,syslog_tail_on,<NAME TARGET>に追従オートランしました,Vous avez commencé à suivre <NAME TARGET> en course automatique.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,System Chatbox Text,Vous avez commencé à suivre <NAME TARGET> en course automatique.
 180,syslog_touchom_areamaster_lock,エリアマスターにより封鎖されている――,Action bloquée par le maître de zone.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,180,,System Chatbox Text,Action bloquée par le maître de zone.
@@ -292498,8 +292524,8 @@ Elle doit être installée.
 Retour au launcher.",ui\00_message\ui\system_network_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,14,,,"Une mise à jour est disponible.
 Elle doit être installée.
 Retour au launcher."
-0,time_event_backup_title_en,Time Event,Evenement chronometre,ui\00_message\ui\time_event.gmd,\ui\uGUITimeEvent.arc,uGUITimeEvent.arc,0,,,Evenement chronometre
-1,time_event_backup_title_jp,期間イベント,Evenement a duree limitee,ui\00_message\ui\time_event.gmd,\ui\uGUITimeEvent.arc,uGUITimeEvent.arc,1,,,Evenement a duree limitee
+0,time_event_backup_title_en,Time Event,Event chronometre,ui\00_message\ui\time_event.gmd,\ui\uGUITimeEvent.arc,uGUITimeEvent.arc,0,,,Event chronometre
+1,time_event_backup_title_jp,期間イベント,Event a duree limitee,ui\00_message\ui\time_event.gmd,\ui\uGUITimeEvent.arc,uGUITimeEvent.arc,1,,,Event a duree limitee
 2,time_event_msg_01,項目はありません,Aucun objet,ui\00_message\ui\time_event.gmd,\ui\uGUITimeEvent.arc,uGUITimeEvent.arc,2,,,Aucun objet
 3,time_event_msg_02,条件,Conditions,ui\00_message\ui\time_event.gmd,\ui\uGUITimeEvent.arc,uGUITimeEvent.arc,3,,,Conditions
 4,time_event_msg_03,達成度,Progression du succès,ui\00_message\ui\time_event.gmd,\ui\uGUITimeEvent.arc,uGUITimeEvent.arc,4,,,Progression du succès
@@ -293173,8 +293199,8 @@ Retour au launcher."
 322,uGUI_Credits_10048,YUYA ONIZUKA,YUYA ONIZUKA,ui\00_message\ui\uGUI_Credits.gmd,\stage\st0151\st0151.arc,st0151.arc,322,,,YUYA ONIZUKA
 323,uGUI_Credits_10049,MIHO NIHEI,MIHO NIHEI,ui\00_message\ui\uGUI_Credits.gmd,\ui\uGUICredit.arc,uGUICredit.arc,323,,,MIHO NIHEI
 323,uGUI_Credits_10049,MIHO NIHEI,MIHO NIHEI,ui\00_message\ui\uGUI_Credits.gmd,\stage\st0151\st0151.arc,st0151.arc,323,,,MIHO NIHEI
-324,uGUI_Credits_10050,Event Planners,Concepteurs des événements,ui\00_message\ui\uGUI_Credits.gmd,\ui\uGUICredit.arc,uGUICredit.arc,324,,,Concepteurs des événements
-324,uGUI_Credits_10050,Event Planners,Concepteurs des événements,ui\00_message\ui\uGUI_Credits.gmd,\stage\st0151\st0151.arc,st0151.arc,324,,,Concepteurs des événements
+324,uGUI_Credits_10050,Event Planners,Concepteurs des Events,ui\00_message\ui\uGUI_Credits.gmd,\ui\uGUICredit.arc,uGUICredit.arc,324,,,Concepteurs des Events
+324,uGUI_Credits_10050,Event Planners,Concepteurs des Events,ui\00_message\ui\uGUI_Credits.gmd,\stage\st0151\st0151.arc,st0151.arc,324,,,Concepteurs des Events
 325,uGUI_Credits_10051,SHUNSUKE SHINODA,SHUNSUKE SHINODA,ui\00_message\ui\uGUI_Credits.gmd,\ui\uGUICredit.arc,uGUICredit.arc,325,,,SHUNSUKE SHINODA
 325,uGUI_Credits_10051,SHUNSUKE SHINODA,SHUNSUKE SHINODA,ui\00_message\ui\uGUI_Credits.gmd,\stage\st0151\st0151.arc,st0151.arc,325,,,SHUNSUKE SHINODA
 326,uGUI_Credits_10052,HIROAKI NUMAGUCHI,HIROAKI NUMAGUCHI,ui\00_message\ui\uGUI_Credits.gmd,\ui\uGUICredit.arc,uGUICredit.arc,326,,,HIROAKI NUMAGUCHI
@@ -298559,7 +298585,7 @@ Veuillez encore patienter un peu."
 魔物たちは更なる軍勢の拡大を狙っているらしい
 各召喚士群を全滅させ、最奥に潜む腐死竜へ挑め","Une horde d'ennemis s'est rassemblée dans les Volden Large Tunnels pour invoquer le Rotting Dragon ! Il semble qu'ils aient déjà achevé le rituel d'invocation. Mais la menace ne s'arrête pas là : ils ont réussi à faire apparaître le Rotting Dragon et cherchent maintenant à accroître encore leurs forces. Éliminez tous les groupes de Summoners, puis affrontez le Rotting Dragon tapi au plus profond des tunnels.",ui\00_message\cycle_quest\cycle_quest_info1-1003.gmd,\quest\qci_01_1003.arc,qci_01_1003.arc,1,,,"Une horde d'ennemis s'est rassemblée dans les Volden Large Tunnels pour invoquer le Rotting Dragon ! Il semble qu'ils aient déjà achevé le rituel d'invocation. Mais la menace ne s'arrête pas là : ils ont réussi à faire apparaître le Rotting Dragon et cherchent maintenant à accroître encore leurs forces. Éliminez tous les groupes de Summoners, puis affrontez le Rotting Dragon tapi au plus profond des tunnels."
 2,CYCLE_QUEST_INFO_42ex2,"白竜神殿・騎士団詰所のデュークと話し
-ゲルト団長からの通達について確認せよ","Parlez à Duke, dans les quartiers des chevaliers du White Dragon Temple, pour connaître le message du capitaine Gerd.",ui\00_message\cycle_quest\cycle_quest_info1-1003.gmd,\quest\qci_01_1003.arc,qci_01_1003.arc,2,,,"Parlez à Duke, dans les quartiers des chevaliers du White Dragon Temple, pour connaître le message du capitaine Gerd."
+ゲルト団長からの通達について確認せよ","Parlez à Antoine, dans les quartiers des chevaliers du White Dragon Temple, pour connaître le message du capitaine Gerd.",ui\00_message\cycle_quest\cycle_quest_info1-1003.gmd,\quest\qci_01_1003.arc,qci_01_1003.arc,2,,,"Parlez à Antoine, dans les quartiers des chevaliers du White Dragon Temple, pour connaître le message du capitaine Gerd."
 3,CYCLE_QUEST_INFO_43,本作戦進行中,Mission en cours,ui\00_message\cycle_quest\cycle_quest_info1-1003.gmd,\quest\qci_01_1003.arc,qci_01_1003.arc,3,,,Mission en cours
 4,CYCLE_QUEST_INFO_43e×1,"ボルド大坑道にて召喚士の名を持つワイトの軍勢が
 魔物を呼び寄せている
@@ -298933,7 +298959,7 @@ Choisissez vos objets selon votre contribution."
 白竜の子らよ、畏れを忘れず脅威に立ち向かえ
 やつらの進撃をこれ以上許してはならない","Sur les terres de Lestania vivent des créatures porteuses de calamités : les ennemis, les monstres. D'où vient leur puissance croissante ? La réponse pourrait résider dans une présence redoutable venue d'Ancient Ritual Ground, un lieu qui relierait notre monde à un autre. Fils et filles du Dragon Blanc, affrontez cette menace sans oublier de la craindre. Nous ne pouvons laisser ces créatures avancer davantage.",ui\00_message\cycle_quest\cycle_quest_info3-3002.gmd,\quest\qci_03_3002.arc,qci_03_3002.arc,1,,,"Sur les terres de Lestania vivent des créatures porteuses de calamités : les ennemis, les monstres. D'où vient leur puissance croissante ? La réponse pourrait résider dans une présence redoutable venue d'Ancient Ritual Ground, un lieu qui relierait notre monde à un autre. Fils et filles du Dragon Blanc, affrontez cette menace sans oublier de la craindre. Nous ne pouvons laisser ces créatures avancer davantage."
 2,CYCLE_QUEST_INFO_21ex2,"白竜神殿・騎士団詰所のローガンと話し
-強敵への備えについて把握せよ","Parler à Logan, au White Dragon Temple Knights' Quarters, des préparatifs pour affronter un ennemi redoutable.",ui\00_message\cycle_quest\cycle_quest_info3-3002.gmd,\quest\qci_03_3002.arc,qci_03_3002.arc,2,,,"Parler à Logan, au White Dragon Temple Knights' Quarters, des préparatifs pour affronter un ennemi redoutable."
+強敵への備えについて把握せよ","Parler à Emmanuel, au White Dragon Temple Knights' Quarters, des préparatifs pour affronter un ennemi redoutable.",ui\00_message\cycle_quest\cycle_quest_info3-3002.gmd,\quest\qci_03_3002.arc,qci_03_3002.arc,2,,,"Parler à Emmanuel, au White Dragon Temple Knights' Quarters, des préparatifs pour affronter un ennemi redoutable."
 3,CYCLE_QUEST_INFO_22,開戦準備中,Préparation en cours,ui\00_message\cycle_quest\cycle_quest_info3-3002.gmd,\quest\qci_03_3002.arc,qci_03_3002.arc,3,,,Préparation en cours
 4,CYCLE_QUEST_INFO_22e×1,"古の祭祀場にて闇の者たちの波動を感知している
 騎士団はこれに対処すべく覚者らの協力を求める","À l'Ancient Ritual Ground, les chevaliers ont détecté des ondes de ténèbres émises par des êtres obscurs. Ils demandent l'aide des Arisen pour les affronter.",ui\00_message\cycle_quest\cycle_quest_info3-3002.gmd,\quest\qci_03_3002.arc,qci_03_3002.arc,4,,,"À l'Ancient Ritual Ground, les chevaliers ont détecté des ondes de ténèbres émises par des êtres obscurs. Ils demandent l'aide des Arisen pour les affronter."
